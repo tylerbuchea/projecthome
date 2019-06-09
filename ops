@@ -1,0 +1,22 @@
+#!/bin/bash
+set -e
+# stop script on frist error
+
+# These commands take this form
+# ./ops [script] [option]
+
+script=${1}
+option=${2}
+if [ ! -z $script ] ; then shift ; fi
+if [ ! -z $option ] ; then shift ; fi
+rest="$@"
+
+if [ -z $script ] ; then
+  echo "please enter a command after ./ops"
+
+# elif [ $script == "bestSchoolDistrict" ] ; then
+
+else
+node --experimental-modules ./src/reports/$script.mjs
+
+fi

@@ -1,0 +1,274 @@
+Rank,School,District,Title 1,Math,Reading,Science,Math Growth,Reading Growth,Absenteeism,Math Gap,ELA Gap,Final Score,Grade
+1,Pauoa Elementary,HON,Yes,72,78,77,80,79,7,23,19,311.9,A+
+2,Pearl City Elementary,LEE,Yes,72,66,76,80,68,9,23,37,291.0,A+
+3,Palisades Elementary,LEE,No,74,74,81,79,64,7,30,35,290.2,A+
+4,Ali‘iōlani Elementary,HON,Yes,64,66,87,85,56,6,27,21,285.1,A+
+5,Liholiho Elementary,HON,No,70,78,80,67,60,4,18,21,283.2,A+
+6,Kāhala Elementary,HON,No,71,74,87,64,64,6,28,33,278.7,A+
+7,Kalihiuka Elementary,HON,Yes,58,64,74,71,68,10,15,32,278.6,A+
+7,Mililani Uka Elementary,CEN,No,74,77,81,65,64,5,29,33,278.6,A+
+9,Pearl City Highlands Elementary,LEE,No,73,74,86,73,59,6,37,38,278.4,A
+10,Noelani Elementary,HON,No,81,78,89,65,54,4,28,30,276.6,A
+11,de Silva Elementary,HAW,No,69,78,74,61,67,5,36,28,274.8,A
+12,Momilani Elementary,LEE,No,84,83,82,65,59,3,47,46,273.3,A
+13,Kapālama Elementary,HON,Yes,53,57,72,63,71,8,6,24,270.7,A-
+14,Mililani Mauka Elementary,CEN,No,78,80,85,57,58,6,26,33,270.5,A-
+15,Lanikai Elementary,CHAR,No,80,81,83,68,51,14,N/A,N/A,269.3,A-
+16,Waikīkī Elementary,HON,No,84,84,97,52,48,7,17,22,269.1,A-
+16,Ha‘aheo Elementary,HAW,Yes,49,65,83,65,72,12,40,28,269.1,A-
+18,Ka‘elepulu Elementary,WIN,No,83,91,100,56,51,6,N/A,N/A,268.8,A-
+19,Kanoelani Elementary,LEE,No,63,67,70,66,66,7,33,37,268.2,B+
+20,Kapi‘olani Elementary,HAW,Yes,45,54,56,84,68,20,N/A,N/A,268.0,B+
+21,Mānoa Elementary,HON,No,69,76,88,65,59,4,48,40,267.7,B+
+22,Makalapa Elementary,CEN,Yes,50,63,71,64,64,8,19,23,265.6,B+
+23,Hōkūlani Elementary,HON,No,69,75,87,54,55,4,27,25,262.7,B+
+24,Kamali‘i Elementary,MAUI,No,63,63,86,60,67,17,42,34,262.3,B+
+25,Ka‘ala Elementary,CEN,Yes,52,60,60,67,71,11,N/A,N/A,261.5,B+
+26,Helemano Elementary,CEN,Yes,63,67,80,56,63,8,26,33,260.2,B
+27,Shafter Elementary,CEN,No,52,69,79,65,59,8,32,26,259.7,B
+28,Kapolei Elementary,LEE,Yes,52,54,56,82,63,13,41,49,258.5,B
+29,Red Hill Elementary,CEN,Yes,64,61,72,57,54,9,16,10,257.4,B
+30,Mililani ‘Ike Elementary,CEN,No,77,82,85,51,49,2,31,33,255.8,B
+31,Nimitz Elementary,CEN,No,63,69,69,61,52,2,31,30,255.3,B
+32,Maunawili Elementary,WIN,Yes,66,70,95,52,56,7,29,37,254.8,B
+33,Kamiloiki Elementary,HON,No,60,66,85,60,63,11,45,48,254.1,B
+34,Koko Head Elementary,HON,No,72,78,81,52,53,12,31,28,254.0,B
+35,Holomua Elementary,LEE,No,56,61,69,59,60,8,29,30,253.6,B
+36,Waiau Elementary,LEE,Yes,59,60,87,69,51,8,43,42,252.5,B
+37,Royal Elementary,HON,Yes,67,61,53,64,63,13,30,42,252.3,B
+38,Āliamanu Elementary,CEN,No,59,61,65,67,55,10,32,41,251.2,B
+39,Lehua Elementary,LEE,Yes,44,53,67,72,59,7,49,30,250.4,B
+40,Moanalua Elementary,CEN,No,60,70,67,56,58,5,34,33,250.3,B-
+41,Nu‘uanu Elementary,HON,No,71,76,75,55,56,4,54,37,250.1,B-
+42,Kamehameha III Elementary,MAU,Yes,47,57,61,67,68,18,42,45,248.8,B-
+43,Ma‘ema‘e Elementary,HON,No,65,73,79,52,54,3,35,38,248.7,B-
+44,Konawaena Elementary,HAW,Yes,56,58,63,62,61,16,36,29,248.2,B-
+45,Pearl Harbor Kai Elementary,CEN,No,50,61,72,62,66,6,56,46,247.8,B-
+45,Haha‘ione Elementary,HON,No,69,74,85,49,50,6,29,34,247.8,B-
+47,Enchanted Lake Elementary,WIN,No,57,72,83,48,59,8,37,35,246.1,B-
+48,‘Āina Haina Elementary,HON,No,69,74,79,49,57,7,37,39,245.9,B-
+49,Kāne‘ohe Elementary,WIN,No,58,68,76,60,54,9,52,45,241.2,B-
+50,Pearl Ridge Elementary,CEN,No,73,75,79,49,50,8,40,42,241.0,B-
+51,‘Ewa Beach Elementary,LEE,Yes,50,63,61,66,58,10,52,48,240.8,B-
+52,‘Āhuimanu Elementary,WIN,Yes,48,63,76,50,60,8,33,42,239.6,B-
+53,Ka‘ewai Elementary,HON,Yes,36,38,64,72,64,23,N/A,N/A,239.3,B-
+54,Waikele Elementary,LEE,No,54,54,43,70,63,8,57,55,238.6,C+
+55,Lanakila Elementary,HON,Yes,56,49,45,58,62,7,28,44,236.7,C+
+56,Wheeler Elementary,CEN,Yes,54,59,59,52,51,8,21,27,236.1,C+
+56,Keolu Elementary,WIN,Yes,39,49,50,71,53,6,N/A,N/A,236.1,C+
+58,Wilson Elementary,HON,No,75,77,84,39,47,2,35,40,236.0,C+
+59,Honoka‘a Elementary,HAW,Yes,45,47,50,67,58,19,34,25,235.5,C+
+60,Hale‘iwa Elementary,CEN,Yes,49,61,96,39,50,17,4,23,234.4,C+
+61,Mokulele Elementary,CEN,No,43,61,59,48,60,8,22,44,233.3,C+
+62,Makakilo Elementary,LEE,Yes,51,50,46,67,59,16,49,44,233.0,C+
+63,Kahakai Elementary,HAW,Yes,53,60,51,56,60,17,31,36,232.8,C+
+64,Kīpapa Elementary,CEN,Yes,48,58,70,55,54,10,42,36,232.0,C+
+65,Ho‘okena Elementary,HAW,Yes,32,38,39,70,68,20,N/A,N/A,231.7,C+
+66,Iroquois Point Elementary,LEE,No,54,60,46,60,55,11,42,43,231.1,C+
+67,Kalihiwaena Elementary,HON,Yes,34,33,42,74,61,14,48,40,230.0,C+
+68,Mānana Elementary,LEE,Yes,58,69,79,49,47,5,47,41,229.8,C+
+69,Ka‘a‘awa Elementary,WIN,Yes,54,63,69,44,58,6,N/A,N/A,229.5,C+
+70,He‘eia Elementary,WIN,Yes,47,57,53,60,56,11,42,47,229.3,C+
+71,Lā‘ie Elementary,WIN,Yes,66,62,66,52,44,9,39,33,229.2,C+
+72,Mōkapu Elementary,WIN,No,55,61,74,50,45,6,32,36,228.4,C+
+73,Hickam Elementary,CEN,No,71,76,85,43,46,5,49,53,228.2,C+
+73,Solomon Elementary,CEN,Yes,51,52,63,52,48,6,23,22,228.2,C+
+75,Kīlauea Elementary,KAU,Yes,46,56,54,59,57,18,45,40,228.1,C
+76,August Ahrens Elementary,LEE,Yes,49,48,44,58,53,8,31,35,227.6,C
+77,Waimalu Elementary,CEN,Yes,47,62,65,52,54,14,49,32,227.4,C
+78,Lunalilo Elementary,HON,Yes,47,43,59,66,46,9,39,40,226.3,C
+79,Hōnaunau Elementary,HAW,Yes,41,41,62,60,63,23,N/A,N/A,226.2,C
+80,Lincoln Elementary,HON,Yes,50,55,60,70,44,16,42,44,225.8,C
+81,Sunset Beach Elementary,WIN,No,57,66,72,52,44,26,33,32,225.5,C
+82,Waiakeawaena Elementary,HAW,Yes,42,48,58,63,54,15,46,42,225.4,C
+83,Kilohana Elementary,MAU,Yes,55,50,50,62,61,13,N/A,N/A,225.1,C
+83,Hanalei Elementary,KAU,No,59,65,66,45,48,26,29,19,225.1,C
+85,Ha‘ikū Elementary,MAUI,Yes,52,56,71,51,52,20,40,37,224.3,C
+86,Keoneula Elementary,LEE,No,38,51,44,54,61,8,42,38,223.9,C
+87,Pōhākea Elementary,LEE,Yes,46,44,54,66,52,15,42,54,223.5,C
+88,Kainalu Elementary,WIN,No,56,67,72,47,53,12,50,40,223.3,C
+88,Waiākea Elementary,HAW,Yes,52,52,54,65,49,14,54,47,223.3,C
+90,Mililani Waena Elementary,CEN,No,65,70,75,30,49,8,34,25,222.2,C
+91,Pearl Harbor Elementary,CEN,Yes,44,53,42,55,49,11,35,24,220.3,C
+92,Makawao Elementary,MAUI,Yes,55,55,55,41,59,13,34,39,220.2,C
+93,Salt Lake Elementary,CEN,Yes,45,53,69,48,49,9,36,36,219.6,C
+94,Kīhei Elementary,MAUI,Yes,56,58,53,48,46,15,26,29,219.5,C
+95,Pu‘uhale Elementary,HON,Yes,43,45,44,64,55,13,N/A,N/A,219.2,C
+95,Pomaika‘i Elementary,MAUI,No,59,59,65,42,57,9,50,48,219.2,C
+95,Waialua Elementary,CEN,Yes,59,62,79,40,49,11,28,31,219.2,C
+98,Kailua Elementary,WIN,Yes,51,66,86,45,46,13,45,40,217.6,C-
+99,Hale Kula Elementary,CEN,No,43,55,51,44,52,8,35,25,217.0,C-
+100,Ka‘ahumanu Elementary,HON,Yes,43,48,55,54,53,17,43,41,215.2,C-
+101,Kalei‘ōpu‘u Elementary,LEE,Yes,45,44,47,64,45,12,47,40,215.1,C-
+102,Kalihi Kai Elementary,HON,Yes,38,48,58,56,47,11,46,32,214.8,C-
+103,Keaukaha Elementary,HAW,Yes,39,44,48,52,59,10,52,40,214.1,C-
+104,Wai‘alae Elementary,CHAR,No,63,57,29,60,43,9,44,51,213.2,C-
+105,Kula Elementary,MAUI,Yes,51,59,66,50,45,14,44,51,212.7,C-
+106,Kūhiō Elementary,HON,Yes,52,65,37,53,54,10,N/A,N/A,212.6,C-
+107,‘Aikahi Elementary,WIN,No,57,61,75,41,46,6,54,50,211.9,C-
+108,Fern Elementary,HON,Yes,35,37,55,58,54,14,N/A,N/A,211.6,C-
+109,Hōlualoa Elementary,HAW,Yes,42,55,57,44,52,17,31,40,211.5,C-
+110,Lihikai Elementary,MAUI,Yes,47,58,51,45,52,8,43,35,211.4,C-
+111,Pukalani Elementary,MAUI,Yes,45,47,60,45,55,14,39,47,210.9,C-
+112,Honowai Elementary,LEE,Yes,38,34,33,54,61,8,42,49,210.8,C-
+113,Kapunahala Elementary,WIN,Yes,48,62,79,42,47,11,58,45,210.0,C-
+114,Kaumana Elementary,HAW,Yes,42,48,34,56,49,10,42,42,209.7,C-
+115,Blanche Pope Elementary,WIN,Yes,47,50,41,54,60,25,N/A,N/A,209.3,C-
+116,Kaumuali‘i Elementary,KAU,Yes,53,57,71,41,45,9,47,45,207.2,C-
+117,Waipahu Elementary,LEE,Yes,32,33,46,63,57,16,61,60,205.1,C-
+118,Jefferson Elementary,HON,Yes,44,50,48,57,47,14,57,42,204.9,C-
+119,Ho‘okele Elementary,LEE,No,49,50,49,45,50,13,33,30,203.3,C-
+120,Kōloa Elementary,KAU,Yes,56,57,60,41,40,17,37,37,202.9,C-
+121,Waihe‘e Elementary,MAUI,Yes,44,47,51,55,41,5,49,43,202.4,D+
+121,Pāhoa Elementary,HAW,Yes,34,43,30,53,63,26,N/A,N/A,202.4,D+
+123,Pā‘ia Elementary,MAUI,Yes,26,39,16,43,62,18,20,5,201.3,D+
+123,Kahului Elementary,MAUI,Yes,44,54,40,43,48,8,49,35,201.3,D+
+123,Nahi‘ena‘ena Elementary,MAU,Yes,41,47,40,42,57,19,35,45,201.3,D+
+126,Kahuku Elementary,WIN,Yes,41,44,25,55,45,11,47,33,200.3,D+
+127,Benjamin Parker Elementary,WIN,Yes,45,59,44,50,44,17,59,40,199.4,D+
+128,‘Iliahi Elementary,CEN,Yes,57,64,68,27,37,11,22,21,199.3,D+
+129,Webling Elementary,CEN,No,48,49,62,48,40,7,56,53,198.3,D+
+130,‘Ewa Elementary,LEE,Yes,29,36,46,55,49,14,50,46,197.7,D+
+131,Nānākuli Elementary,LEE,Yes,37,26,7,61,51,30,26,31,197.0,D+
+132,Mauka Lani Elementary,LEE,Yes,40,37,62,44,46,13,39,46,196.8,D+
+133,Wahiawā Elementary,CEN,Yes,35,41,37,47,50,18,41,36,196.0,D
+134,Ka‘imiloa Elementary,LEE,Yes,34,38,43,50,41,9,31,40,195.7,D
+135,Kekaha Elementary,KAU,Yes,45,40,48,48,50,11,48,55,195.4,D
+136,Kalāheo Elementary,KAU,Yes,42,50,44,46,48,11,61,49,194.3,D
+137,Kaunakakai Elementary,MAU,Yes,35,36,38,44,52,11,46,43,192.2,D
+138,‘Ele‘ele Elementary,KAU,Yes,52,44,45,28,39,10,15,18,191.3,D
+139,Leihōkū Elementary,LEE,Yes,31,33,61,49,44,22,38,50,190.5,D
+140,Pu‘u Kukui Elementary,MAUI,Yes,45,50,55,40,43,11,58,50,189.4,D
+141,Kahalu‘u Elementary,WIN,Yes,39,42,43,44,50,13,N/A,N/A,189.2,D
+142,‘Aiea Elementary,CEN,Yes,16,25,21,53,59,9,N/A,N/A,187.5,D
+143,Kauluwela Elementary,HON,Yes,46,43,36,53,39,17,N/A,N/A,187.2,D-
+143,Likelike Elementary,HON,Yes,45,39,46,48,42,14,N/A,N/A,187.2,D-
+145,Ka‘iulani Elementary,HON,Yes,20,24,16,62,53,17,N/A,N/A,187.0,D-
+146,Pū‘ōhala Elementary,WIN,Yes,24,31,22,56,50,16,44,52,186.9,D-
+147,Kualapu‘u Elementary,CHAR,Yes,42,23,52,49,45,8,N/A,N/A,186.2,D-
+148,Mākaha Elementary,LEE,Yes,24,26,45,56,43,27,48,38,184.9,D-
+149,Pālolo Elementary,HON,Yes,41,46,40,52,38,19,N/A,N/A,184.1,D-
+150,Ala Wai Elementary,HON,Yes,39,41,61,40,39,14,46,50,182.9,D-
+150,Kapa‘a Elementary,KAU,Yes,32,37,38,47,47,26,49,44,182.9,D-
+152,Kea‘au Elementary,HAW,Yes,47,45,51,36,37,16,40,39,182.7,D-
+153,Kohala Elementary,HAW,Yes,26,40,47,46,48,22,54,47,181.2,D-
+154,Hilo Union Elementary,HAW,Yes,32,45,26,46,50,24,N/A,N/A,179.6,F
+155,Alvah Scott Elementary,CEN,Yes,35,48,40,27,48,12,48,33,178.8,F
+156,Wilcox Elementary,KAU,Yes,43,44,39,36,37,9,43,46,176.8,F
+157,Waimea Elementary,HAW,Yes,33,34,54,46,37,23,53,48,174.7,F
+158,Barbers Point Elementary,LEE,Yes,34,39,22,46,48,18,62,62,172.7,F
+159,Nā‘ālehu Elementary,HAW,Yes,20,24,22,55,54,42,N/A,N/A,170.9,F
+160,Mountain View Elementary,HAW,Yes,40,41,37,41,48,33,N/A,N/A,168.6,F
+161,Wai‘anae Elementary,LEE,Yes,29,28,43,39,50,33,N/A,N/A,164.3,F
+162,Keonepoko Elementary,HAW,Yes,30,39,40,35,47,28,N/A,N/A,163.2,F
+163,Waiāhole Elementary,WIN,Yes,29,45,N/A,30,45,14,N/A,N/A,162.3,F
+164,Nānāikapono Elementary,LEE,Yes,17,23,27,49,51,34,62,64,161.8,F
+165,Hau‘ula Elementary,WIN,Yes,33,33,26,36,44,18,49,53,156.5,F
+165,Mā‘ili Elementary,LEE,Yes,23,25,15,47,40,30,50,51,156.5,F
+167,Kalihi Elementary,HON,Yes,18,19,19,50,40,17,N/A,N/A,152.5,F
+168,Wailuku Elementary,MAUI,Yes,26,34,32,42,35,12,71,58,151.9,F
+169,Ka‘ū Learning Academy,CHAR,Yes,28,35,61,34,35,5,N/A,N/A,151.6,F
+170,Kealakehe Elementary,HAW,Yes,28,32,32,25,38,17,59,58,142.9,F
+171,Maunaloa Elementary,MAU,Yes,34,31,N/A,30,17,28,N/A,N/A,115.8,F
+1,Wheeler Middle,CEN,Yes,55,67,64,72,63,10,26,29,266.9,A+
+2,Moanalua Middle,CEN,No,58,76,55,63,68,7,36,30,264.7,A+
+3,‘Aiea Intermediate,CEN,Yes,58,59,60,76,62,11,43,38,260.0,A
+4,Innovations,CHAR,Yes,57,68,52,57,55,3,38,29,255.5,A
+5,Niu Valley Middle,HON,No,70,72,63,64,50,8,48,44,251.5,A-
+6,Kailua Intermediate,WIN,No,54,72,57,59,56,8,53,39,244.5,B+
+7,Kaimukī Middle,HON,No,62,66,58,57,49,6,29,35,242.8,B+
+8,Mililani Middle,CEN,No,52,70,56,48,56,3,55,46,235.5,B+
+9,Voyager,CHAR,No,60,60,25,70,59,13,46,56,235.4,B+
+10,Jarrett Middle,HON,Yes,39,49,53,61,53,16,34,35,228.0,B
+11,Kapolei Middle,LEE,Yes,45,51,28,63,57,7,48,49,227.9,B
+12,Kalākaua Middle,HON,Yes,39,49,32,61,65,14,43,36,226.2,B
+13,Kawānanakoa Middle,HON,Yes,51,61,37,49,53,5,34,36,225.9,B
+14,Stevenson Middle,HON,Yes,50,59,42,51,51,9,44,40,220.5,B-
+15,Highlands Intermediate,LEE,No,55,61,44,51,50,11,51,44,217.6,B-
+16,SEEQS,CHAR,No,43,70,50,40,51,8,59,43,217.0,B-
+17,Kamakahelei Middle,KAU,Yes,45,47,26,61,55,12,51,45,215.7,C+
+18,Waiākea Intermediate,HAW,Yes,41,56,39,58,57,14,58,45,212.6,C+
+19,Washington Middle,HON,Yes,38,45,34,53,48,6,45,43,209.7,C+
+20,‘Ewa Makai Middle,LEE,No,36,54,39,50,53,12,52,47,206.9,C+
+21,Kohala Middle,HAW,Yes,24,51,30,38,62,11,19,34,204.2,C+
+22,Waikoloa Elementary & Middle,HAW,Yes,32,45,51,47,48,10,65,59,198.8,C+
+23,Waimea Middle,CHAR,Yes,34,38,38,58,47,22,46,48,192.8,C+
+24,Āliamanu Middle,CEN,No,33,46,38,43,41,10,37,29,192.2,C
+24,Wahiawā Middle,CEN,Yes,34,42,47,53,47,20,56,41,192.2,C
+26,Pa‘auilo Elementary & Intermediate,HAW,Yes,39,40,20,56,45,17,51,57,191.5,C
+27,Hilo Intermediate,HAW,Yes,42,46,33,49,50,16,56,52,191.2,C
+28,Konawaena Middle,HAW,Yes,34,51,30,48,53,21,53,45,190.2,C
+29,‘Ilima Intermediate,LEE,Yes,27,49,28,41,54,15,50,46,189.6,C
+30,King Intermediate,WIN,Yes,34,50,50,40,49,15,58,52,186.4,C
+31,Kapa‘a Middle,KAU,Yes,26,47,34,40,60,20,55,44,184.9,C-
+32,Waipahu Intermediate,LEE,Yes,31,35,37,48,42,13,54,49,182.7,C-
+33,Waimea Canyon Middle,KAU,Yes,25,37,23,46,52,15,64,42,182.5,C-
+34,Kealakehe Intermediate,HAW,Yes,21,33,32,53,45,15,58,48,182.1,D+
+35,Lokelani Intermediate,MAUI,Yes,34,45,32,38,39,7,51,54,179.9,D+
+36,Waimānalo Elementary,WIN,Yes,26,38,50,40,47,22,37,44,177.7,D+
+37,Moloka‘i Middle,MAU,Yes,33,34,15,53,36,17,17,48,176.4,D
+38,Maui Waena Intermediate,MAUI,Yes,28,45,47,35,42,12,63,48,175.7,D
+39,Kalama Intermediate,MAUI,Yes,24,41,46,40,40,19,54,41,173.2,D
+40,Lahaina Intermediate,MAU,Yes,26,40,24,41,45,13,59,52,173.0,D-
+41,Kona Pacific,CHAR,Yes,20,35,13,45,41,28,17,23,166.8,D-
+42,Volcano School,CHAR,No,30,36,43,46,40,23,79,63,166.1,D-
+43,Kea‘au Middle,HAW,Yes,21,38,28,38,50,27,61,48,156.0,F
+44,‘Īao Intermediate,MAUI,Yes,26,36,31,33,34,17,64,56,151.3,F
+45,Central Middle,HON,Yes,13,28,11,31,48,26,41,42,146.8,F
+46,Dole Middle,HON,Yes,11,24,14,27,42,27,59,53,126.6,F
+47,Wai‘anae Intermediate,LEE,Yes,17,18,13,35,31,38,49,54,111.8,F
+1,University Laboratory,CHAR,No,46,70,46,57,43,81,100,96,293.4,A+
+2,Roosevelt High,HON,Yes,57,75,43,73,71,58,87,78,279.3,A+
+3,Kalani High,HON,No,49,70,47,58,48,61,89,84,275.2,A
+4,‘Ehunuikaimalino,HAW,Yes,17,14,N/A,58,41,N/A,100,N/A,272.1,A
+5,Kaiser High,HON,No,43,74,46,54,62,59,91,81,270.1,A-
+6,Moanalua High,CEN,No,44,69,44,62,49,53,96,73,269.6,A-
+7,Mililani High,CEN,No,45,62,51,67,46,55,92,74,265.0,B+
+8,Myron B. Thompson Academy,CHAR,No,48,72,67,47,55,52,81,55,262.7,B+
+9,Kalāheo High,WIN,No,35,67,52,48,59,51,88,73,257.0,B+
+10,Kīhei Charter School,CHAR,No,47,66,42,52,40,65,79,78,251.4,B+
+11,Pearl City High,LEE,No,42,71,38,64,66,50,79,69,250.9,B
+12,Radford High,CEN,No,36,54,39,59,53,50,93,67,246.9,B
+13,Hawai‘i Academy,CHAR,Yes,46,62,45,55,53,58,72,57,243.3,B
+14,Kanu o ka ‘Āina,CHAR,Yes,38,57,39,50,65,18,80,70,236.8,B-
+15,McKinley High,HON,Yes,50,63,21,55,54,44,74,69,236.3,B-
+16,Kaua‘i High,KAU,No,25,59,31,52,63,39,82,71,234.8,B-
+17,‘Aiea High,CEN,Yes,24,65,38,47,68,40,88,57,233.1,B-
+18,West Hawai‘i Explorations,CHAR,Yes,38,54,40,43,44,31,96,54,233.0,C+
+19,Kapa‘a High,KAU,Yes,27,58,41,41,53,38,92,59,231.6,C+
+20,Waiākea High,HAW,Yes,34,60,42,38,41,35,86,73,230.6,C+
+21,Campbell High,LEE,Yes,29,56,45,51,45,39,89,56,230.1,C+
+22,Kahuku High & Intermediate,WIN,Yes,38,54,29,52,57,37,83,52,223.7,C+
+23,Leilehua High,CEN,Yes,32,61,23,59,57,36,81,56,223.4,C+
+24,Kealakehe High,HAW,Yes,39,57,39,53,44,44,72,50,218.3,C+
+25,Waialua High & Intermediate,CEN,Yes,33,46,43,30,30,28,86,64,215.3,C
+26,Konawaena High,HAW,Yes,31,45,30,65,47,37,79,47,213.7,C
+27,Waipahu High,LEE,Yes,31,49,30,52,51,31,81,56,213.5,C
+28,Kekaulike High,MAUI,Yes,28,60,41,42,57,34,74,59,213.3,C
+29,Maui High,MAUI,Yes,29,53,19,42,50,40,77,58,213.0,C
+30,Castle High,WIN,Yes,25,60,37,36,45,35,83,61,212.4,C
+31,Waimea High,KAU,Yes,20,45,15,41,60,22,84,75,212.1,C-
+32,Kapolei High,LEE,No,22,52,27,43,53,33,85,61,211.2,C-
+33,Connections,CHAR,Yes,33,46,33,58,47,53,59,52,210.0,C-
+34,Baldwin High,MAUI,No,26,44,30,52,39,34,81,61,209.2,C-
+35,Farrington High,HON,Yes,25,52,26,59,66,21,77,57,208.8,C-
+36,Hana High & Elementary,MAU,Yes,29,43,38,53,55,32,83,25,207.5,C-
+37,Ke Ana La‘ahana PCS,CHAR,Yes,11,21,N/A,49,36,N/A,N/A,N/A,205.7,C-
+38,Kailua High,WIN,Yes,19,49,38,39,43,31,82,57,205.6,D+
+39,Hilo High,HAW,Yes,21,50,21,39,39,25,74,67,202.9,D+
+40,Kohala High,HAW,Yes,22,45,40,51,48,21,86,44,202.1,D+
+41,‘Ānuenue,HON,Yes,13,21,4,58,58,8,94,65,201.4,D+
+42,Honoka‘a High & Intermediate,HAW,Yes,24,43,22,48,51,29,83,47,200.1,D
+43,Hawai‘i Technology Academy,CHAR,No,46,60,45,48,45,43,51,37,200.0,D
+44,Pāhoa High & Intermediate,HAW,Yes,31,45,21,45,52,29,79,49,197.1,D
+45,Lāna‘i High & Elementary,MAU,Yes,17,25,14,38,39,23,83,54,193.1,D
+46,Kaimukī High,HON,Yes,13,54,N/A,37,62,21,62,58,192.0,D-
+47,Moloka‘i High,MAU,Yes,23,47,15,35,53,21,85,41,189.6,D-
+48,Kamaile Academy PCS,CHAR,Yes,11,22,15,36,42,35,88,N/A,186.5,D-
+49,Lahainaluna High,MAU,No,19,31,23,38,42,22,78,58,185.8,D-
+50,Ka‘ū High & Pāhala Elementary,HAW,Yes,12,26,22,34,45,29,81,48,178.1,F
+51,Kea‘au High,HAW,Yes,18,33,23,20,32,14,83,56,177.4,F
+52,Wai‘anae High,LEE,Yes,13,41,16,34,38,19,74,48,169.5,F
+53,Kua o ka Lā,CHAR,Yes,9,17,37,58,38,N/A,27,N/A,150.2,F
+54,Nānākuli High & Intermediate,LEE,Yes,8,18,20,28,30,8,74,36,147.6,F
+55,Laupahoehoe Community PCS,CHAR,Yes,23,36,26,43,45,23,N/A,N/A,116.1,F

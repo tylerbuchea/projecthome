@@ -1,0 +1,48 @@
+Rank,School,District,Title 1,Math,Reading,Science,Math Growth,Reading Growth,Absenteeism,Math Gap,ELA Gap,Final Score,Grade
+1,Wheeler Middle,CEN,Yes,55,67,64,72,63,10,26,29,266.9,A+
+2,Moanalua Middle,CEN,No,58,76,55,63,68,7,36,30,264.7,A+
+3,‘Aiea Intermediate,CEN,Yes,58,59,60,76,62,11,43,38,260.0,A
+4,Innovations,CHAR,Yes,57,68,52,57,55,3,38,29,255.5,A
+5,Niu Valley Middle,HON,No,70,72,63,64,50,8,48,44,251.5,A-
+6,Kailua Intermediate,WIN,No,54,72,57,59,56,8,53,39,244.5,B+
+7,Kaimukī Middle,HON,No,62,66,58,57,49,6,29,35,242.8,B+
+8,Mililani Middle,CEN,No,52,70,56,48,56,3,55,46,235.5,B+
+9,Voyager,CHAR,No,60,60,25,70,59,13,46,56,235.4,B+
+10,Jarrett Middle,HON,Yes,39,49,53,61,53,16,34,35,228.0,B
+11,Kapolei Middle,LEE,Yes,45,51,28,63,57,7,48,49,227.9,B
+12,Kalākaua Middle,HON,Yes,39,49,32,61,65,14,43,36,226.2,B
+13,Kawānanakoa Middle,HON,Yes,51,61,37,49,53,5,34,36,225.9,B
+14,Stevenson Middle,HON,Yes,50,59,42,51,51,9,44,40,220.5,B-
+15,Highlands Intermediate,LEE,No,55,61,44,51,50,11,51,44,217.6,B-
+16,SEEQS,CHAR,No,43,70,50,40,51,8,59,43,217.0,B-
+17,Kamakahelei Middle,KAU,Yes,45,47,26,61,55,12,51,45,215.7,C+
+18,Waiākea Intermediate,HAW,Yes,41,56,39,58,57,14,58,45,212.6,C+
+19,Washington Middle,HON,Yes,38,45,34,53,48,6,45,43,209.7,C+
+20,‘Ewa Makai Middle,LEE,No,36,54,39,50,53,12,52,47,206.9,C+
+21,Kohala Middle,HAW,Yes,24,51,30,38,62,11,19,34,204.2,C+
+22,Waikoloa Elementary & Middle,HAW,Yes,32,45,51,47,48,10,65,59,198.8,C+
+23,Waimea Middle,CHAR,Yes,34,38,38,58,47,22,46,48,192.8,C+
+24,Āliamanu Middle,CEN,No,33,46,38,43,41,10,37,29,192.2,C
+24,Wahiawā Middle,CEN,Yes,34,42,47,53,47,20,56,41,192.2,C
+26,Pa‘auilo Elementary & Intermediate,HAW,Yes,39,40,20,56,45,17,51,57,191.5,C
+27,Hilo Intermediate,HAW,Yes,42,46,33,49,50,16,56,52,191.2,C
+28,Konawaena Middle,HAW,Yes,34,51,30,48,53,21,53,45,190.2,C
+29,‘Ilima Intermediate,LEE,Yes,27,49,28,41,54,15,50,46,189.6,C
+30,King Intermediate,WIN,Yes,34,50,50,40,49,15,58,52,186.4,C
+31,Kapa‘a Middle,KAU,Yes,26,47,34,40,60,20,55,44,184.9,C-
+32,Waipahu Intermediate,LEE,Yes,31,35,37,48,42,13,54,49,182.7,C-
+33,Waimea Canyon Middle,KAU,Yes,25,37,23,46,52,15,64,42,182.5,C-
+34,Kealakehe Intermediate,HAW,Yes,21,33,32,53,45,15,58,48,182.1,D+
+35,Lokelani Intermediate,MAUI,Yes,34,45,32,38,39,7,51,54,179.9,D+
+36,Waimānalo Elementary,WIN,Yes,26,38,50,40,47,22,37,44,177.7,D+
+37,Moloka‘i Middle,MAU,Yes,33,34,15,53,36,17,17,48,176.4,D
+38,Maui Waena Intermediate,MAUI,Yes,28,45,47,35,42,12,63,48,175.7,D
+39,Kalama Intermediate,MAUI,Yes,24,41,46,40,40,19,54,41,173.2,D
+40,Lahaina Intermediate,MAU,Yes,26,40,24,41,45,13,59,52,173.0,D-
+41,Kona Pacific,CHAR,Yes,20,35,13,45,41,28,17,23,166.8,D-
+42,Volcano School,CHAR,No,30,36,43,46,40,23,79,63,166.1,D-
+43,Kea‘au Middle,HAW,Yes,21,38,28,38,50,27,61,48,156.0,F
+44,‘Īao Intermediate,MAUI,Yes,26,36,31,33,34,17,64,56,151.3,F
+45,Central Middle,HON,Yes,13,28,11,31,48,26,41,42,146.8,F
+46,Dole Middle,HON,Yes,11,24,14,27,42,27,59,53,126.6,F
+47,Wai‘anae Intermediate,LEE,Yes,17,18,13,35,31,38,49,54,111.8,F

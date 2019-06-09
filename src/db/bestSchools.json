@@ -1,0 +1,18 @@
+{ "high":
+   [ { "score": 279, "name": "Roosevelt High", "district": "HON" },
+     { "score": 275, "name": "Kalani High", "district": "HON" },
+     { "score": 270, "name": "Kaiser High", "district": "HON" },
+     { "score": 270, "name": "Moanalua High", "district": "CEN" },
+     { "score": 265, "name": "Mililani High", "district": "CEN" } ],
+  "middle":
+   [ { "score": 267, "name": "Wheeler Middle", "district": "CEN" },
+     { "score": 265, "name": "Moanalua Middle", "district": "CEN" },
+     { "score": 260, "name": "‘Aiea Intermediate", "district": "CEN" },
+     { "score": 252, "name": "Niu Valley Middle", "district": "HON" },
+     { "score": 245, "name": "Kailua Intermediate", "district": "WIN" } ],
+  "elementary":
+   [ { "score": 312, "name": "Pauoa Elementary", "district": "HON" },
+     { "score": 291, "name": "Pearl City Elementary", "district": "LEE" },
+     { "score": 290, "name": "Palisades Elementary", "district": "LEE" },
+     { "score": 285, "name": "Ali‘iōlani Elementary", "district": "HON" },
+     { "score": 283, "name": "Liholiho Elementary", "district": "HON" } ] }

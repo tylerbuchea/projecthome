@@ -1,0 +1,56 @@
+Rank,School,District,Title 1,Math,Reading,Science,Math Growth,Reading Growth,Absenteeism,Math Gap,ELA Gap,Final Score,Grade
+1,University Laboratory,CHAR,No,46,70,46,57,43,81,100,96,293.4,A+
+2,Roosevelt High,HON,Yes,57,75,43,73,71,58,87,78,279.3,A+
+3,Kalani High,HON,No,49,70,47,58,48,61,89,84,275.2,A
+4,‘Ehunuikaimalino,HAW,Yes,17,14,N/A,58,41,N/A,100,N/A,272.1,A
+5,Kaiser High,HON,No,43,74,46,54,62,59,91,81,270.1,A-
+6,Moanalua High,CEN,No,44,69,44,62,49,53,96,73,269.6,A-
+7,Mililani High,CEN,No,45,62,51,67,46,55,92,74,265.0,B+
+8,Myron B. Thompson Academy,CHAR,No,48,72,67,47,55,52,81,55,262.7,B+
+9,Kalāheo High,WIN,No,35,67,52,48,59,51,88,73,257.0,B+
+10,Kīhei Charter School,CHAR,No,47,66,42,52,40,65,79,78,251.4,B+
+11,Pearl City High,LEE,No,42,71,38,64,66,50,79,69,250.9,B
+12,Radford High,CEN,No,36,54,39,59,53,50,93,67,246.9,B
+13,Hawai‘i Academy,CHAR,Yes,46,62,45,55,53,58,72,57,243.3,B
+14,Kanu o ka ‘Āina,CHAR,Yes,38,57,39,50,65,18,80,70,236.8,B-
+15,McKinley High,HON,Yes,50,63,21,55,54,44,74,69,236.3,B-
+16,Kaua‘i High,KAU,No,25,59,31,52,63,39,82,71,234.8,B-
+17,‘Aiea High,CEN,Yes,24,65,38,47,68,40,88,57,233.1,B-
+18,West Hawai‘i Explorations,CHAR,Yes,38,54,40,43,44,31,96,54,233.0,C+
+19,Kapa‘a High,KAU,Yes,27,58,41,41,53,38,92,59,231.6,C+
+20,Waiākea High,HAW,Yes,34,60,42,38,41,35,86,73,230.6,C+
+21,Campbell High,LEE,Yes,29,56,45,51,45,39,89,56,230.1,C+
+22,Kahuku High & Intermediate,WIN,Yes,38,54,29,52,57,37,83,52,223.7,C+
+23,Leilehua High,CEN,Yes,32,61,23,59,57,36,81,56,223.4,C+
+24,Kealakehe High,HAW,Yes,39,57,39,53,44,44,72,50,218.3,C+
+25,Waialua High & Intermediate,CEN,Yes,33,46,43,30,30,28,86,64,215.3,C
+26,Konawaena High,HAW,Yes,31,45,30,65,47,37,79,47,213.7,C
+27,Waipahu High,LEE,Yes,31,49,30,52,51,31,81,56,213.5,C
+28,Kekaulike High,MAUI,Yes,28,60,41,42,57,34,74,59,213.3,C
+29,Maui High,MAUI,Yes,29,53,19,42,50,40,77,58,213.0,C
+30,Castle High,WIN,Yes,25,60,37,36,45,35,83,61,212.4,C
+31,Waimea High,KAU,Yes,20,45,15,41,60,22,84,75,212.1,C-
+32,Kapolei High,LEE,No,22,52,27,43,53,33,85,61,211.2,C-
+33,Connections,CHAR,Yes,33,46,33,58,47,53,59,52,210.0,C-
+34,Baldwin High,MAUI,No,26,44,30,52,39,34,81,61,209.2,C-
+35,Farrington High,HON,Yes,25,52,26,59,66,21,77,57,208.8,C-
+36,Hana High & Elementary,MAU,Yes,29,43,38,53,55,32,83,25,207.5,C-
+37,Ke Ana La‘ahana PCS,CHAR,Yes,11,21,N/A,49,36,N/A,N/A,N/A,205.7,C-
+38,Kailua High,WIN,Yes,19,49,38,39,43,31,82,57,205.6,D+
+39,Hilo High,HAW,Yes,21,50,21,39,39,25,74,67,202.9,D+
+40,Kohala High,HAW,Yes,22,45,40,51,48,21,86,44,202.1,D+
+41,‘Ānuenue,HON,Yes,13,21,4,58,58,8,94,65,201.4,D+
+42,Honoka‘a High & Intermediate,HAW,Yes,24,43,22,48,51,29,83,47,200.1,D
+43,Hawai‘i Technology Academy,CHAR,No,46,60,45,48,45,43,51,37,200.0,D
+44,Pāhoa High & Intermediate,HAW,Yes,31,45,21,45,52,29,79,49,197.1,D
+45,Lāna‘i High & Elementary,MAU,Yes,17,25,14,38,39,23,83,54,193.1,D
+46,Kaimukī High,HON,Yes,13,54,N/A,37,62,21,62,58,192.0,D-
+47,Moloka‘i High,MAU,Yes,23,47,15,35,53,21,85,41,189.6,D-
+48,Kamaile Academy PCS,CHAR,Yes,11,22,15,36,42,35,88,N/A,186.5,D-
+49,Lahainaluna High,MAU,No,19,31,23,38,42,22,78,58,185.8,D-
+50,Ka‘ū High & Pāhala Elementary,HAW,Yes,12,26,22,34,45,29,81,48,178.1,F
+51,Kea‘au High,HAW,Yes,18,33,23,20,32,14,83,56,177.4,F
+52,Wai‘anae High,LEE,Yes,13,41,16,34,38,19,74,48,169.5,F
+53,Kua o ka Lā,CHAR,Yes,9,17,37,58,38,N/A,27,N/A,150.2,F
+54,Nānākuli High & Intermediate,LEE,Yes,8,18,20,28,30,8,74,36,147.6,F
+55,Laupahoehoe Community PCS,CHAR,Yes,23,36,26,43,45,23,N/A,N/A,116.1,F
