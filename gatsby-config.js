@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/projecthome",
   siteMetadata: {
     title: `Project Home`,
     description: `Location and timing are everything.`,
@@ -38,5 +39,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-csv`,
+    `gatsby-plugin-styled-components`,
   ],
 }
