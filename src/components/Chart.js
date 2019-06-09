@@ -2,7 +2,7 @@ import React from "react"
 import { LineChart, Line, CartesianGrid, XAxis, YAxis, Tooltip } from "recharts"
 
 import ChartTooltip from "./ChartTooltip"
-import colors from "../data/colors"
+import colors from "../data-real-estate/colors"
 
 export default function Chart(props) {
   const { data, xKey, yKeys } = props
