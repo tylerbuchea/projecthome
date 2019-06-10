@@ -2,18 +2,17 @@ import React from "react"
 import styled from "styled-components"
 
 import bestSchools from "../data-schools/bestSchools.js"
-import districts from "../data-common/districts"
+import bestSchoolDistrict from "../data-schools/bestSchoolDistrict.js"
 
 export function SchoolsTop({ className }) {
   const renderSchool = (school, index) => {
+    console.log(school)
     const { name, district, score } = school
     return (
       <div key={index} className="school">
         <div>{score}</div>
         <div>{name}</div>
-        <div>
-          {districts[district]} ({district})
-        </div>
+        <div>{district}</div>
       </div>
     )
   }
@@ -58,6 +57,16 @@ export function SchoolsTop({ className }) {
         <div>District</div>
       </div>
       <div className="schoolList">{bestSchools.high.map(renderSchool)}</div>
+      <br />
+
+      <h3>School District</h3>
+      <p>Best average score across all grades</p>
+      <div className="school school-header">
+        <div>Score</div>
+        <div>Name</div>
+        <div>District</div>
+      </div>
+      <div className="schoolList">{bestSchoolDistrict.map(renderSchool)}</div>
     </div>
   )
 }
@@ -66,11 +75,15 @@ export default styled(SchoolsTop)`
   .schoolList {
     max-height: 200px;
     overflow: scroll;
+    background: #f0f0f0;
   }
   .school {
     display: grid;
     grid-template-columns: 80px 1fr 1fr;
     padding: 2px 5px;
+  }
+  .school:nth-child(odd) {
+    background: #e0e0e0;
   }
   .school-header {
     font-weight: bold;

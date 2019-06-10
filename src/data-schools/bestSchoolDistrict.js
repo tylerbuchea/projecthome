@@ -1,5 +1,6 @@
 import schools from "./all"
 import _ from "lodash"
+import districts from "./districts"
 
 const scoreByDistrict = schools.all.reduce((acc, curr, index) => {
   if (!acc[curr.District]) acc[curr.District] = []
@@ -15,6 +16,10 @@ const averageDistrictScore = Object.entries(scoreByDistrict).map(
   }
 )
 
-const orderedList = _.orderBy(averageDistrictScore, "rank", "desc")
+const orderedList = _.orderBy(averageDistrictScore, "rank", "desc").map(x => ({
+  ...x,
+  name: districts[x.district],
+  district: `${districts[x.district]} (${x.district})`,
+}))
 
 export default orderedList

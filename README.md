@@ -3,13 +3,19 @@
 - [tylerbuchea.com/projecthome](https://tylerbuchea.com/projecthome/)
 - [Google My Map](https://www.google.com/maps/d/edit?mid=140gPqk_yTmdIMQdBkTsRDZSbWMDh6RS7&ll=21.485947960666294%2C-158.00282975437517&z=11)
 
+## Good Places for Past Times
+
+- Kite boarding
+- Paddleboarding
+
+## Parks
+
+- Regular
+- Dog
+
 ## Beaches
 
 ## Neighborhoods
-
-## Resources
-
-- [Where to live on Oahu](https://www.hawaiilife.com/blog/where-to-live-on-oahu/)
 
 ## Schools
 
@@ -41,19 +47,17 @@ Best School District By Score
   - Moanalua Middle
   - ‘Aiea Intermediate
 - High:
+
   - University Laboratory
   - Roosevelt High
   - Kalani High
 
-### Resources
-
+- [Oahu State Parks](https://hawaiistateparks.org/parks/oahu/)
+- [Where to live on Oahu](https://www.hawaiilife.com/blog/where-to-live-on-oahu/)
 - [Honolulu Magazine - Hawaii Public School Chart](http://www.honolulumagazine.com/Honolulu-Magazine/April-2017/Hawaii-Public-School-Chart-2017/)
 - [Reddit - Is Manoa the only legit school?](https://www.reddit.com/r/UniversityofHawaii/comments/8bdhiv/is_uh_manoa_the_only_legit_school_on_oahu_that/)
 - [Reddit - Public high schools in Oahu](https://www.reddit.com/r/Hawaii/comments/7pk9l8/questionpublic_high_schools_on_oahu/)
 - [Hawaii Public Schools - AP classes by highschool](http://www.hawaiipublicschools.org/TeachingAndLearning/Testing/AdvancedPlacement/Pages/APcourses.aspx)
 - [Oahu DOE Map](http://www.hawaiipublicschools.org/ParentsAndStudents/EnrollingInSchool/SchoolFinder/Pages/Oahu-Map.aspx)
 - [North Shore Schools](https://www.hawaiiliving.com/blog/north-shore-oahu-schools/)
-
-## Resources
-
 - [Google My Map](https://www.google.com/maps/d/edit?mid=140gPqk_yTmdIMQdBkTsRDZSbWMDh6RS7&ll=21.485947960666294%2C-158.00282975437517&z=11)
