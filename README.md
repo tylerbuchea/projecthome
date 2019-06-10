@@ -17,6 +17,19 @@
 
 ## Neighborhoods
 
+Filters: Price, population, average income, etc
+
+- Carrie's (2084 Kula Street, 96817)
+- Kailie valley
+- Near North shore tacos
+- Ewa Beach
+- Kahuku
+- Laie (Oahu Country side)
+- Wainae
+- Mililanai
+- Kapawai
+- Pearl city
+
 ## Schools
 
 Oahu is comprised of four districts:
@@ -47,11 +60,19 @@ Best School District By Score
   - Moanalua Middle
   - ‘Aiea Intermediate
 - High:
-
   - University Laboratory
   - Roosevelt High
   - Kalani High
 
+## Resources
+
+- [Neighborhood Boards of Honlulu](https://en.wikipedia.org/wiki/Neighborhood_Boards_of_Honolulu)
+- [GIS: Perennial streams](http://honolulu-cchnl.opendata.arcgis.com/datasets/1eacaf6f0a8a4b809ea76b89c1300339_4)
+- [Middle School Areas](https://geoportal.hawaii.gov/datasets/middle-school-areas?geometry=-168.047%2C19.264%2C-146.953%2C22.851)
+- [Elementary School Areas](https://geoportal.hawaii.gov/datasets/elementary-school-areas)
+- [Highschool Areas](https://geoportal.hawaii.gov/datasets/high-school-areas?geometry=-159.207%2C21.162%2C-156.57%2C21.61)
+- [GIS: School districts](https://geoportal.hawaii.gov/datasets/school-districts?geometry=-168.036%2C20.029%2C-146.942%2C23.599)
+- [GIS: Oahu Parks and Open Places](http://honolulu-cchnl.opendata.arcgis.com/datasets/parks?geometry=-158.14%2C21.274%2C-157.481%2C21.386)
 - [Oahu State Parks](https://hawaiistateparks.org/parks/oahu/)
 - [Where to live on Oahu](https://www.hawaiilife.com/blog/where-to-live-on-oahu/)
 - [Honolulu Magazine - Hawaii Public School Chart](http://www.honolulumagazine.com/Honolulu-Magazine/April-2017/Hawaii-Public-School-Chart-2017/)
