@@ -6,7 +6,6 @@ import bestSchoolDistrict from "../data-schools/bestSchoolDistrict.js"
 
 export function SchoolsTop({ className }) {
   const renderSchool = (school, index) => {
-    console.log(school)
     const { name, district, score } = school
     return (
       <div key={index} className="school">

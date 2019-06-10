@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oahu - Hawaii State Parks</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Aiea Bay State Recreation Area</name>
+        <description>http://hawaiistateparks.org/parks/oahu/aiea-bay-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.9333603,21.3743682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ahupua'a O Kahana State Park]]></name>
+        <description>http://hawaiistateparks.org/parks/oahu/ahupua%ca%bba-%ca%bbo-kahana-state-park/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8763274,21.5559903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Head State Monument</name>
+        <description>http://hawaiistateparks.org/parks/oahu/diamond-head-state-monument/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8040943,21.2637984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heeia State Park</name>
+        <description>http://hawaiistateparks.org/parks/oahu/he%ca%bbeia-state-park/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8099396,21.4407696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iolani Palace</name>
+        <description>http://hawaiistateparks.org/parks/oahu/iolani-palace-state-monument/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8587697,21.3067572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaʻena Point State Park</name>
+        <description>http://hawaiistateparks.org/parks/oahu/ka%ca%bbena-point-state-park/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -158.2785977,21.5749164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaiwi State Scenic Shoreline</name>
+        <description>http://hawaiistateparks.org/parks/oahu/kaiwi-state-scenic-shoreline/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.6554703,21.305679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keaiwa Heiau State Park</name>
+        <description>http://hawaiistateparks.org/parks/oahu/keaiwa-heiau-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.895971,21.3986139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laie Point State Wayside</name>
+        <description>http://hawaiistateparks.org/parks/oahu/la%ca%bbie-point-state-wayside/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.913892,21.6482269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malaekahana State Recreation Area</name>
+        <description>http://hawaiistateparks.org/parks/oahu/malaekahana-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.9300069,21.6591968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nu‘uanu Pali</name>
+        <description>http://hawaiistateparks.org/parks/oahu/nu%ca%bbuanu-pali-state-wayside/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.7930905,21.3670365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puu o Mahuka Heiau</name>
+        <description>http://hawaiistateparks.org/parks/oahu/pu%ca%bbu-o-mahuka-heiau-state-historic-site/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -158.0604,21.6422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puu Ualakaa State Park</name>
+        <description>http://hawaiistateparks.org/parks/oahu/pu%ca%bbu-%ca%bbualaka%ca%bba-state-wayside/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8249362,21.3125434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Queen Emma Summer Palace</name>
+        <description>http://hawaiistateparks.org/parks/oahu/queen-emma-summer-palace/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8391492,21.3358129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Mausoleum</name>
+        <description>http://hawaiistateparks.org/parks/oahu/royal-mausoleum-state-monument/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8473133,21.3252679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sand Island</name>
+        <description>http://hawaiistateparks.org/parks/oahu/sand-island-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8778435,21.3064413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulupo Heiau State Monument</name>
+        <description>http://hawaiistateparks.org/parks/oahu/ulupo-heiau-state-historic-site/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.7529323,21.3855709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waahila Ridge State Recreation Area</name>
+        <description>http://hawaiistateparks.org/parks/oahu/wa%ca%bbahila-ridge-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -157.8010911,21.306432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wahiawa Freshwater State Park</name>
+        <description>http://hawaiistateparks.org/parks/oahu/wahiawa-freshwater-state-recreation-area/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -158.0253793,21.4921231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

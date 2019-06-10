@@ -2,6 +2,8 @@ import schools from "./all"
 import _ from "lodash"
 import districts from "./districts"
 
+const nonOahuDistricts = ["HAW", "CHAR", "MAUI", "MAU", "KAU"]
+
 const scoreByDistrict = schools.all.reduce((acc, curr, index) => {
   if (!acc[curr.District]) acc[curr.District] = []
   acc[curr.District].push(curr["Final Score"])
@@ -16,10 +18,12 @@ const averageDistrictScore = Object.entries(scoreByDistrict).map(
   }
 )
 
-const orderedList = _.orderBy(averageDistrictScore, "rank", "desc").map(x => ({
-  ...x,
-  name: districts[x.district],
-  district: `${districts[x.district]} (${x.district})`,
-}))
+const orderedList = _.orderBy(averageDistrictScore, "rank", "desc")
+  .filter(x => !nonOahuDistricts.includes(x.district))
+  .map(x => ({
+    ...x,
+    name: districts[x.district],
+    district: `${districts[x.district]} (${x.district})`,
+  }))
 
 export default orderedList

@@ -1,4 +1,5 @@
-[ { "score": 236, "district": "CEN" },
+[
+  { "score": 236, "district": "CEN" },
   { "score": 232, "district": "HON" },
   { "score": 217, "district": "WIN" },
   { "score": 216, "district": "LEE" },
@@ -6,4 +7,5 @@
   { "score": 206, "district": "HAW" },
   { "score": 204, "district": "KAU" },
   { "score": 202, "district": "MAUI" },
-  { "score": 192, "district": "MAU" } ]
+  { "score": 192, "district": "MAU" }
+]

@@ -22,13 +22,13 @@ export const combinePricesByDate = prices => {
       accumulator[otherName] = match
       return accumulator
     }, {})
-    // console.log(matchingDates)
+
     const entry = {
       date: firstItem.date,
       [firstName]: firstItem.price,
       ...matchingDates,
     }
-    // console.log(entry)
+
     return entry
   })
 

@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oahu beaches</name>
+    <description/>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Oahu Beaches</name>
+      <Placemark>
+        <name><![CDATA[Poka'i Bay Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/EYZqD1HVZOcll7LBklhYzM4JxCsv9TnvpiCcny6Y-WMtmIrn1ItTCQ6_4rDwbhIH1OF-X5Mbl4Qj9TR7VV-x_DFpTUXC4m0lqV8vGB_bKwGudWMCvYE" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/pokaibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/EYZqD1HVZOcll7LBklhYzM4JxCsv9TnvpiCcny6Y-WMtmIrn1ItTCQ6_4rDwbhIH1OF-X5Mbl4Qj9TR7VV-x_DFpTUXC4m0lqV8vGB_bKwGudWMCvYE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.18921,21.442923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lualualei Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/5Zc5FvflWLEM9yJlkti4UOgglStW0KNQhq-Wij2Ei-PCVTfGleQtxshabVtg2sRseEqIpnm2WxeeE2bdSEvbRt33YKzDdUT0KyUd86hg7dFarpWOOaaqXq9Ldj0YOarnCNXgJVxftg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/lualualeibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/5Zc5FvflWLEM9yJlkti4UOgglStW0KNQhq-Wij2Ei-PCVTfGleQtxshabVtg2sRseEqIpnm2WxeeE2bdSEvbRt33YKzDdUT0KyUd86hg7dFarpWOOaaqXq9Ldj0YOarnCNXgJVxftg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.186023,21.435873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mauna Lahilahi Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/8nZbEblpzPDeGcck90T1-_9QzPjA7AobgAGwGKvI0Bq-IagpV71f825A-Me3KOV8mHlXao3_q3EhEVhfcLFADZvd-LI4UYgxTzplKO3wGCml-P1wdm7oROnqkik9xX0V4Lohl8c1" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/maunalahilahibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/8nZbEblpzPDeGcck90T1-_9QzPjA7AobgAGwGKvI0Bq-IagpV71f825A-Me3KOV8mHlXao3_q3EhEVhfcLFADZvd-LI4UYgxTzplKO3wGCml-P1wdm7oROnqkik9xX0V4Lohl8c1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.206601,21.459679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turtle Beach</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/MpCGDwFkbi1kjCqqX_ubJCBlrSS6_Nw4prs0yMpoWfDPQEcE7-x3XI2p6BHupTFMJg5fxbpRdTBn93vFBkBaKZIP2n58TA2fgKGGZiw92NSRFIIxM0qrOQnaRSM" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/turtlebeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/MpCGDwFkbi1kjCqqX_ubJCBlrSS6_Nw4prs0yMpoWfDPQEcE7-x3XI2p6BHupTFMJg5fxbpRdTBn93vFBkBaKZIP2n58TA2fgKGGZiw92NSRFIIxM0qrOQnaRSM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.213596,21.463553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Makaha Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/3-MTbO6Z4vZXhQ5HTYhPqubUXcJlfMMhB6W1_sPTcosJS4yjNexmq7UVMXG8sTJBxUF0DQSI56qvDmDoT0jAx4TtO_Wqae7feBr4q4P7EwrG5T0JKHYGOjCIhdI_EZjA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/makaha-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/3-MTbO6Z4vZXhQ5HTYhPqubUXcJlfMMhB6W1_sPTcosJS4yjNexmq7UVMXG8sTJBxUF0DQSI56qvDmDoT0jAx4TtO_Wqae7feBr4q4P7EwrG5T0JKHYGOjCIhdI_EZjA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.220227,21.476533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ma'ili Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/NeIppET_rinZrKLCKFgsGSV-btuB66deK4VwIIwBr8EZcpM9P-nUm7YB3cJLcKbp-XVGfO_2qiiBOq_n3ezpTPt9C9K45O-6ulBJ_eIz1Ny7ZDhKPabm1OuES4NONvU" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/mailibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/NeIppET_rinZrKLCKFgsGSV-btuB66deK4VwIIwBr8EZcpM9P-nUm7YB3cJLcKbp-XVGfO_2qiiBOq_n3ezpTPt9C9K45O-6ulBJ_eIz1Ny7ZDhKPabm1OuES4NONvU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.178663,21.42235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulehawa Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/XtrommDYLzp9re9aQkOW3kTkZjJLFvQ-iY2kPfhnyOcJJ61wMHu0t4z9HNe0ho-EYKPi1JGArp9KxEyX21Zlgib65ZVL6anm7DRUuH1y8-UcSjGaP2dJ4lmNrmNHr9K2vRQxX3Td-BSoZg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/ulehawabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/XtrommDYLzp9re9aQkOW3kTkZjJLFvQ-iY2kPfhnyOcJJ61wMHu0t4z9HNe0ho-EYKPi1JGArp9KxEyX21Zlgib65ZVL6anm7DRUuH1y8-UcSjGaP2dJ4lmNrmNHr9K2vRQxX3Td-BSoZg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.158708,21.392963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nanakuli Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/1eyvQFDtur2e6itiCzD1zvhssarR9MJplZdgXvvrbEzv5hazTUU4UnW3P9QO0T_2j6UMJgP6Bpt-lKWRNGK2L2k7-0hV5Jivj5bMVU9mIvMB5I0_NYHi759w-fGb0vlg8gPEa1re" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/nanakulibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/1eyvQFDtur2e6itiCzD1zvhssarR9MJplZdgXvvrbEzv5hazTUU4UnW3P9QO0T_2j6UMJgP6Bpt-lKWRNGK2L2k7-0hV5Jivj5bMVU9mIvMB5I0_NYHi759w-fGb0vlg8gPEa1re</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.141692,21.3762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ka'ena Point State Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/-VMJRjtClk_M6QJVzZ2VWcQtRI3VjOnEmAJoD7G95JUNam031LVWbMe4uueeH4wi4FIjl8EEdQYQa7F7lhl5GmYeZHFvJL-CCjU3y4GBSHaMAPSj4SNaupFl1gPrkUUsRqyM" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaenapoint.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/-VMJRjtClk_M6QJVzZ2VWcQtRI3VjOnEmAJoD7G95JUNam031LVWbMe4uueeH4wi4FIjl8EEdQYQa7F7lhl5GmYeZHFvJL-CCjU3y4GBSHaMAPSj4SNaupFl1gPrkUUsRqyM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.253486,21.557879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Army Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/CnY_Dd4QdPAb2JlNZRx5UhkFNpKkgEc22_6xdoF2VGYkn3g56rVA-1dMTEDT67qMPIwQoLA-CmCSANsKQhTAXtMrB_lIrOMZ8JV7EYRrMR9SaK5qd9M6IA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/armybeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/CnY_Dd4QdPAb2JlNZRx5UhkFNpKkgEc22_6xdoF2VGYkn3g56rVA-1dMTEDT67qMPIwQoLA-CmCSANsKQhTAXtMrB_lIrOMZ8JV7EYRrMR9SaK5qd9M6IA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.208597,21.581366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mokule'ia Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/v0K4Xz-QrXabIvHSt614J1ikuX3ABltYpG76X_sJmvuLBYeQQkWdR0r3e9RPHCrO7vqqJUWWE68ugjN5fsCe15-6LCX25nCR7H6QIuo40_0uwE69YKwjaJJH0UVfBiBvhBq-y_k" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/mokuleiabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/v0K4Xz-QrXabIvHSt614J1ikuX3ABltYpG76X_sJmvuLBYeQQkWdR0r3e9RPHCrO7vqqJUWWE68ugjN5fsCe15-6LCX25nCR7H6QIuo40_0uwE69YKwjaJJH0UVfBiBvhBq-y_k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.191634,21.582533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaiaka Bay Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Uvw-I-IS0aaZPBgvbNE0h_91ZMOyQRn-4DbTLLuMDHnDDkWC-uXRdhgt8027gviiXgauIKnDV03Rz7tFErlCLApDCE5-vKA3ObSvenlDJZL5giuQfeqtBAU" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaiakabaybeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/Uvw-I-IS0aaZPBgvbNE0h_91ZMOyQRn-4DbTLLuMDHnDDkWC-uXRdhgt8027gviiXgauIKnDV03Rz7tFErlCLApDCE5-vKA3ObSvenlDJZL5giuQfeqtBAU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.118582,21.58807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hale'iwa Ali'i Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/DdGerN7Xc5pz2WIGd55i5UWxFzOikEknbc0bcTd7GnkAYtGErIUH8C7sEiWQZ71DNk1vJ1A3zG_qZ89Twelu29qtWeEICDtk4ejpkXV2xvxQv715lBpswZ8_yrl7qYHMekYc_YoJKhAbG6NP" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/haleiwaaliibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/DdGerN7Xc5pz2WIGd55i5UWxFzOikEknbc0bcTd7GnkAYtGErIUH8C7sEiWQZ71DNk1vJ1A3zG_qZ89Twelu29qtWeEICDtk4ejpkXV2xvxQv715lBpswZ8_yrl7qYHMekYc_YoJKhAbG6NP</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.10854,21.593836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hale'iwa Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/XJmEXC9PXd80I1lTWIPigSmK6SqfkTQLoPurc8tuQUaFxFbZNPgbTQVIPtKfY27bqE2a49TmI-RIKavVPghHkg2xXcWeyQfsOIE-1MLl6wLl-RYyE3Z7lplzEb4vcCfQrUfK" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/haleiwabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/XJmEXC9PXd80I1lTWIPigSmK6SqfkTQLoPurc8tuQUaFxFbZNPgbTQVIPtKfY27bqE2a49TmI-RIKavVPghHkg2xXcWeyQfsOIE-1MLl6wLl-RYyE3Z7lplzEb4vcCfQrUfK</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.10339,21.597767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawailoa Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/KLmHHXPS_DDQJUDk98gFLWiJ47tM94t_vSVjjgjJt5XlOfIzIWj-Dy98MrOrXy1I6oclzcWerBLzhcMPP4SuMxAdj12zSaf2-YuCNvkHjD5m4tLYUQ-pnOdRDps" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kawailoabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/KLmHHXPS_DDQJUDk98gFLWiJ47tM94t_vSVjjgjJt5XlOfIzIWj-Dy98MrOrXy1I6oclzcWerBLzhcMPP4SuMxAdj12zSaf2-YuCNvkHjD5m4tLYUQ-pnOdRDps</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.080645,21.623721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leftovers Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/42MsiY_SgiB-lZucHCrcI8ursFCuxEpUK78LOh-r1SSt1jiMjMAEAb09bflW0YNPkgckYvfDycvAPlS_Wmp3TIbzZ09TQSh8QDwWewYAuDJHpyofD2kdLlS0XQaFsIjnwYGqxAn8FLNUmnqPSvAkxpdyIOa0" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/leftoversbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/42MsiY_SgiB-lZucHCrcI8ursFCuxEpUK78LOh-r1SSt1jiMjMAEAb09bflW0YNPkgckYvfDycvAPlS_Wmp3TIbzZ09TQSh8QDwWewYAuDJHpyofD2kdLlS0XQaFsIjnwYGqxAn8FLNUmnqPSvAkxpdyIOa0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.07432,21.627605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waimea Bay Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/JurcwzA2tp9ynkOFoPNLnvs8VNRs4bWiRVsKG9NLUxCPOGCozJhbbqtaK5kas8zcT1pYByQIGGRqi_wSMfI_OOFsTIF9VJUqY3Mxn9K8xhDKQnqGT6UVxg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waimea-bay-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/JurcwzA2tp9ynkOFoPNLnvs8VNRs4bWiRVsKG9NLUxCPOGCozJhbbqtaK5kas8zcT1pYByQIGGRqi_wSMfI_OOFsTIF9VJUqY3Mxn9K8xhDKQnqGT6UVxg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.063521,21.640117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ehukai Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/HG37c1V1Z-r1dNkWVS6meVXtA36iPFIG03WyhYc6yI_bbhdizfSAzPTW72KfjA7xL9CY9zbvIw1seNMkQ_wW-tEtE6bOHvCLDXbNM85pFk8tP2Gj6R2Txw0sheGdejQ" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/ehukaibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/HG37c1V1Z-r1dNkWVS6meVXtA36iPFIG03WyhYc6yI_bbhdizfSAzPTW72KfjA7xL9CY9zbvIw1seNMkQ_wW-tEtE6bOHvCLDXbNM85pFk8tP2Gj6R2Txw0sheGdejQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.052986,21.66387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Lr4LYKQ6zJWGHyGHiw5a1OsOotvmNZL-DoXOToRLckG5TE82hkcBh2_Yz7-8z1Z2w6_zuI_uvnvFuUPMSznI3mtICQSiH6VLdscqCubBdXFBEzCGdiosrUGVeA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/sunset-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/Lr4LYKQ6zJWGHyGHiw5a1OsOotvmNZL-DoXOToRLckG5TE82hkcBh2_Yz7-8z1Z2w6_zuI_uvnvFuUPMSznI3mtICQSiH6VLdscqCubBdXFBEzCGdiosrUGVeA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.041034,21.673741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Waiale'e Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/pFPZoBmnH1ixUtO_URnhlYQxTZwrsjvYSfBiC5oSBGiW8T_j0ABZMpx_8de8a9yLZfg_-n7MyNPZKTnPGfcfrXjb-H2ienhF8kFA4yBaQ6J9RjgV9knOSVP1cAKL6pBxqV0X" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waialeebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/pFPZoBmnH1ixUtO_URnhlYQxTZwrsjvYSfBiC5oSBGiW8T_j0ABZMpx_8de8a9yLZfg_-n7MyNPZKTnPGfcfrXjb-H2ienhF8kFA4yBaQ6J9RjgV9knOSVP1cAKL6pBxqV0X</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.019659,21.693084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawela Bay</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/DhwX8B2iWn0Dr_2Agwdx7S7om3RF5d3mruQTmxuVv0Dh4A-_QPemq1phXZxMqOiNjT8lYUnWm_2DareGLOxKACqd8k7fnUn413j-tofAXNpFALW7JI36jg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kawela-bay.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/DhwX8B2iWn0Dr_2Agwdx7S7om3RF5d3mruQTmxuVv0Dh4A-_QPemq1phXZxMqOiNjT8lYUnWm_2DareGLOxKACqd8k7fnUn413j-tofAXNpFALW7JI36jg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.008922,21.69688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turtle Bay Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Dxe2xdoaGLes_B670wSAzclrxmGVW8Nn3cWq8YeP4GaiKOawBPDVpvpYTgfcz7MjWTTTWEZ2ne0Ua-IyotvYLKFpMDDRXMEIe0XYnPXuz-ZJunfsvhrsbiqem_mTuRkxQTca6w" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/turtlebaybeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/Dxe2xdoaGLes_B670wSAzclrxmGVW8Nn3cWq8YeP4GaiKOawBPDVpvpYTgfcz7MjWTTTWEZ2ne0Ua-IyotvYLKFpMDDRXMEIe0XYnPXuz-ZJunfsvhrsbiqem_mTuRkxQTca6w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.000473,21.700513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayview Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/F44k4VKuljy1M4of15JskXAqOh9FhWWUxGFEgZ8zmskvZCTAxcE054RqKk5Oxir2Tur7sp7xjbe5cSQV0-Yvjsl9avGXckN6LWJvN1MZ83Bn0OqisCNl2iK9cjq_xE-P0zEKeCBaJh6KjA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/bayviewbeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/F44k4VKuljy1M4of15JskXAqOh9FhWWUxGFEgZ8zmskvZCTAxcE054RqKk5Oxir2Tur7sp7xjbe5cSQV0-Yvjsl9avGXckN6LWJvN1MZ83Bn0OqisCNl2iK9cjq_xE-P0zEKeCBaJh6KjA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.997153,21.705203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kahuku Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ughu1HY1E67W_nkAS8ayWoplSbKqW8x6gAI0WjSlYIUb27VM2WBZ-MM5xIF0A2t-pvKtYo7PS9suBXgOteN13PzoFLgqaKLGojdFTOLn3Pi-jvfpie9x3ax873nuFD0" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kahukubeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/ughu1HY1E67W_nkAS8ayWoplSbKqW8x6gAI0WjSlYIUb27VM2WBZ-MM5xIF0A2t-pvKtYo7PS9suBXgOteN13PzoFLgqaKLGojdFTOLn3Pi-jvfpie9x3ax873nuFD0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.9425,21.681039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malaekahana Bay</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Rqqugzb6ju_ia931QVQVI_aJCrrQd52WdRATLngNOzMmBEaznf92HCBU_Ve-Y8xchKUgfm4oC22__MurvInFzCOMLaJvWYzjZMzaVN07ERQlaIgQPBo7nNhzAfhpeRIpQGo" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/malaekahana-bay.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/Rqqugzb6ju_ia931QVQVI_aJCrrQd52WdRATLngNOzMmBEaznf92HCBU_Ve-Y8xchKUgfm4oC22__MurvInFzCOMLaJvWYzjZMzaVN07ERQlaIgQPBo7nNhzAfhpeRIpQGo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.93469,21.664268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hukilau Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/_UO1i80WgWNmWciSZd6KNsrL666KwRmKOs77im3b5EcTshoEw4ZCnSGSgM_qfPec-YzrbghhLOvkrfkhx8gEUNZE4FZZmZzscRMB4JVAKvQYLFAiwlpOb8hkNstVAskW" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/hukilaubeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/_UO1i80WgWNmWciSZd6KNsrL666KwRmKOs77im3b5EcTshoEw4ZCnSGSgM_qfPec-YzrbghhLOvkrfkhx8gEUNZE4FZZmZzscRMB4JVAKvQYLFAiwlpOb8hkNstVAskW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.927887,21.652722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[La'ie Point State Wayside Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/uCgik8eJTULS_l3rDUrJtLickXOXdPWdTdiR1K5XKXoOndOLVTIg8dzf2cCExV2WaLPkcwVaCBvTwdLwwdKD1kOm4WmuCHzFslI0V8xbVVCsgb6Oeoin_w" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/laiepointpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/uCgik8eJTULS_l3rDUrJtLickXOXdPWdTdiR1K5XKXoOndOLVTIg8dzf2cCExV2WaLPkcwVaCBvTwdLwwdKD1kOm4WmuCHzFslI0V8xbVVCsgb6Oeoin_w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.913446,21.648015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pounders Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/hCANib2qjQRzq1GQ2T9vESbg7PVSScAhzcmAV4asN1CD16f15hkubSMhdHB1RHIwki3l5kG8OSsyploS2UgIobCqcMHjJ_tdwh1PENi_Ipa8twL-7xlP993xk-KCnMtufw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/laiebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/hCANib2qjQRzq1GQ2T9vESbg7PVSScAhzcmAV4asN1CD16f15hkubSMhdHB1RHIwki3l5kG8OSsyploS2UgIobCqcMHjJ_tdwh1PENi_Ipa8twL-7xlP993xk-KCnMtufw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.920957,21.630622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kokololio Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Tunk-ZTGWRRSQcHQKIPHQBQs6S_mtRxFLMXpyRkChgtxkwTrlDkumUv0fcgsnncfvyvNSlycDAmDbTzpOw4rIFdHqLRen9tzFROedUQuV3qRnqMEoaosWfAzqTALTQueZ-W_" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kokololiobeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/Tunk-ZTGWRRSQcHQKIPHQBQs6S_mtRxFLMXpyRkChgtxkwTrlDkumUv0fcgsnncfvyvNSlycDAmDbTzpOw4rIFdHqLRen9tzFROedUQuV3qRnqMEoaosWfAzqTALTQueZ-W_</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.920742,21.626334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hau'ula Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/6sPaCGJ7azrVDCD0rO1ZwgKxhxxkUPbS3twH2-5_i5gZBYMoxGAsuEBCUE-AmEtE56ZCIJV_C_7ULRI0FMFnogeqmw1koJ90-oPWqNe3GsC-OEvSJiKlUndVgjYHV2aIhw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/hauulabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/6sPaCGJ7azrVDCD0rO1ZwgKxhxxkUPbS3twH2-5_i5gZBYMoxGAsuEBCUE-AmEtE56ZCIJV_C_7ULRI0FMFnogeqmw1koJ90-oPWqNe3GsC-OEvSJiKlUndVgjYHV2aIhw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.911478,21.612824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Punalu'u Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/bf80dilZKE4bbNu9VlNEfZYZO17ARAyyNhHKjJKsQG1-ZLl9h87N5tVMLP6H9cVX7TeVDbARTrwDj-WORWW2caOYO20dWYUi0sHMZIuPR1NSzEHlPJtz-XGVBWKk0N_b32nV" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/punaluubeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/bf80dilZKE4bbNu9VlNEfZYZO17ARAyyNhHKjJKsQG1-ZLl9h87N5tVMLP6H9cVX7TeVDbARTrwDj-WORWW2caOYO20dWYUi0sHMZIuPR1NSzEHlPJtz-XGVBWKk0N_b32nV</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.886394,21.581441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kahana Bay Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/LF91mkpBrBf4PfiPIWfvdO6ad0yBb463cQX4WtDKo9c6BPudPamX9UVcdYJWc6DYpGzBFGrXKo1P9KTDbqdF8Cvjn9c214cJy_5PEs987bOsunP5HieDq9Ri68hz" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kahanabay.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/LF91mkpBrBf4PfiPIWfvdO6ad0yBb463cQX4WtDKo9c6BPudPamX9UVcdYJWc6DYpGzBFGrXKo1P9KTDbqdF8Cvjn9c214cJy_5PEs987bOsunP5HieDq9Ri68hz</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.874243,21.556202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swanzy Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/tjF7H4LPRYwmZlEUr6SQpoB1p0plLqu13iOaYDuCYv1kYMQDlo-YRjN4iM88q0znhHlt5rvg9mS_UWr9JyZqSUesZlicj5cNTGHSutc2JOy6F-vUQOt5jaolRokwrgPk-w" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/swanzybeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/tjF7H4LPRYwmZlEUr6SQpoB1p0plLqu13iOaYDuCYv1kYMQDlo-YRjN4iM88q0znhHlt5rvg9mS_UWr9JyZqSUesZlicj5cNTGHSutc2JOy6F-vUQOt5jaolRokwrgPk-w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.85359,21.557001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ka'a'awa Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/-GBhU4Rbp5qOJURdt7CGlvo_IBAMt23K0UsPr3n0AAQEecxZva5aTYt4wzOwHrXiwAU2RcjSpQHhCt_liNorFVvZBryMx9ioOZ013hKgpS-nI1IRu1DaTmK5BrYhjq3R7A" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaaawabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/-GBhU4Rbp5qOJURdt7CGlvo_IBAMt23K0UsPr3n0AAQEecxZva5aTYt4wzOwHrXiwAU2RcjSpQHhCt_liNorFVvZBryMx9ioOZ013hKgpS-nI1IRu1DaTmK5BrYhjq3R7A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.846402,21.549078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kualoa Regional Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mtqGB163g0SmJU4akSQmfNqKYrrBw3JJKGhXdBq9So7fAndVTR1xYOy1bXlifKdwmENt6Bm9hKzfwaehVJsrV8hTjmz8Ts7FLBjDt6AT4b5J7vAka2rqGmu9FAX6BVep19GiBXXdPhCABXI" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kualoapark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/mtqGB163g0SmJU4akSQmfNqKYrrBw3JJKGhXdBq9So7fAndVTR1xYOy1bXlifKdwmENt6Bm9hKzfwaehVJsrV8hTjmz8Ts7FLBjDt6AT4b5J7vAka2rqGmu9FAX6BVep19GiBXXdPhCABXI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.836488,21.513229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalama Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/RTiedgN-nhJp3umH3KU2VN4bm1PcKgUCmVyueBHgjZiOqGtMLx2uNRxZOG3CKOXhwbibD5BT6czDqhTlwbJbx6oamHc3zElduh1dUWTig4mrM9pW-rt0RvCAWbw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kalamabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/RTiedgN-nhJp3umH3KU2VN4bm1PcKgUCmVyueBHgjZiOqGtMLx2uNRxZOG3CKOXhwbibD5BT6czDqhTlwbJbx6oamHc3zElduh1dUWTig4mrM9pW-rt0RvCAWbw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.73921,21.40579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kailua Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/U6apQJWXdL2kreh7-OWQKLkpkPTtc7ulHTLShxBfj7gw8o3QOzzfWun6RXV3CBKBTHs6W2sxPonc_vKwiQK3Byjecbb6vzFLXw6Gik-yjYWjtNDgx94XrBSi9vI" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kailuabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/U6apQJWXdL2kreh7-OWQKLkpkPTtc7ulHTLShxBfj7gw8o3QOzzfWun6RXV3CBKBTHs6W2sxPonc_vKwiQK3Byjecbb6vzFLXw6Gik-yjYWjtNDgx94XrBSi9vI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.724394,21.39654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lanikai Beach</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/_vAFX_oxDldCftThtMz3ZvOwf8Da4w37aauWAnBBMnLboAKjI11dQPGhmG-vI2d8qeZMau9rROdqyTCZAKenF-NdT_r_nbgC6JtWrUihX9LyjgZzYnJQPI2eb66YGRFa" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/lanikaibeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/_vAFX_oxDldCftThtMz3ZvOwf8Da4w37aauWAnBBMnLboAKjI11dQPGhmG-vI2d8qeZMau9rROdqyTCZAKenF-NdT_r_nbgC6JtWrUihX9LyjgZzYnJQPI2eb66YGRFa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.714963,21.391944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bellows Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/tj93eFC_6SoJOkbztFg1vSn2lWOCOkSbrWGM_4xaMi2LXEHI3UVoBGd8BkIoX6dTfc8SgWAn8rY16u01MUk2lypo_caO3pWQehoq7EVmiPn5T7UTQ9HLyLbonc5LGDCZyyl620t6Sczp2nM" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/bellows-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/tj93eFC_6SoJOkbztFg1vSn2lWOCOkSbrWGM_4xaMi2LXEHI3UVoBGd8BkIoX6dTfc8SgWAn8rY16u01MUk2lypo_caO3pWQehoq7EVmiPn5T7UTQ9HLyLbonc5LGDCZyyl620t6Sczp2nM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.708097,21.357656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waimanalo Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/DCB69ZlERdVI7cx_K2YcR2BYV33CnkONwxknAjFByNks6IPghtuewjUF9pnHSIooCPh0MglVq4tKeoqhBAN3HMEq7lZekXc58wV4qNXlZbCs0vLFAtv-1sjlLj3JzpOYCZey" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waimanalobeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/DCB69ZlERdVI7cx_K2YcR2BYV33CnkONwxknAjFByNks6IPghtuewjUF9pnHSIooCPh0MglVq4tKeoqhBAN3HMEq7lZekXc58wV4qNXlZbCs0vLFAtv-1sjlLj3JzpOYCZey</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.703075,21.346025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaupo Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/mct_ArH2Db-MAYWw4Y0ZLJLeLqYM0IIekU9sOdRQj3f_RLnZj_Pp-1VfVMxYSvmUWx2TSssReuagJMQfi2zIAVEAbE8h5p9LQv1pF-Vb3MgcVwab_LClyxdFb2Owoaw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaupobeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/mct_ArH2Db-MAYWw4Y0ZLJLeLqYM0IIekU9sOdRQj3f_RLnZj_Pp-1VfVMxYSvmUWx2TSssReuagJMQfi2zIAVEAbE8h5p9LQv1pF-Vb3MgcVwab_LClyxdFb2Owoaw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.669709,21.318522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaiona Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/WToHdbP4ysd7UMK--W7pFhjj6XX9YfcdCp3l1vxeiqezHKLhALMK0Hbj0o7jcNw65pAEzjhvn1gfeUijUM-hfObVVa4BBwU9KL3gkh7sPWIxlsA63zwUR2kl-OnpD-QMv2tQkbI" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaionabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/WToHdbP4ysd7UMK--W7pFhjj6XX9YfcdCp3l1vxeiqezHKLhALMK0Hbj0o7jcNw65pAEzjhvn1gfeUijUM-hfObVVa4BBwU9KL3gkh7sPWIxlsA63zwUR2kl-OnpD-QMv2tQkbI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.682261,21.325978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Makapu'u Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/KXnDh83UrZsXX_43NSObEZFB6fEa5bASTTVLQvuzDfVzcvuyMrssl3NalCgQJtK0aFiLjN2G4ukphZqO2uidDFWwlaKqSdDovvVilazWknMgIv1kBtP9JBsUSrV3OuE" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/makapuubeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/KXnDh83UrZsXX_43NSObEZFB6fEa5bASTTVLQvuzDfVzcvuyMrssl3NalCgQJtK0aFiLjN2G4ukphZqO2uidDFWwlaKqSdDovvVilazWknMgIv1kBtP9JBsUSrV3OuE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.66001,21.311215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaloko Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/-yB8AgXbQnFQ-dutiWCKnQSn2ElJgRJY13R5AZQjARq225CjZYGWnVPqdyaP2BXZ-taYWTCxSyrCzeYEwF0igqj660lkOYdPl_A44dKHgCVgi6vu6rln7xraAWLm2vFW" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kalokobeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/-yB8AgXbQnFQ-dutiWCKnQSn2ElJgRJY13R5AZQjARq225CjZYGWnVPqdyaP2BXZ-taYWTCxSyrCzeYEwF0igqj660lkOYdPl_A44dKHgCVgi6vu6rln7xraAWLm2vFW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.661694,21.291674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VDjv9ebV6KUIbtVctnAr9cLF0EYaXCl2Mk9ZRgPy6WuL-LHbi9pSAUVQ3nhbjoAa8XpYVped_Q1ohkdpfjLwScHLdVrSwZt2GHRtFHOeVR4mEHhXda_QOHz6u7Mz3n0ErywdNSKfeytccI-J" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/sandy-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/VDjv9ebV6KUIbtVctnAr9cLF0EYaXCl2Mk9ZRgPy6WuL-LHbi9pSAUVQ3nhbjoAa8XpYVped_Q1ohkdpfjLwScHLdVrSwZt2GHRtFHOeVR4mEHhXda_QOHz6u7Mz3n0ErywdNSKfeytccI-J</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.672809,21.285586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halona Beach Cove</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/WRVZjvYHaXKs-cqhYIq2RnthWwzUZFEtYZWzFRl3FGugIozw273kpkLlnUejH3p5Oja7sehC7OLlQ0Ylk3bC8keCelA2GAg_7k9ygSM0NTPME3cZK3T5-Lzxaj9c_tMNZw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/halona-beach-cove.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/WRVZjvYHaXKs-cqhYIq2RnthWwzUZFEtYZWzFRl3FGugIozw273kpkLlnUejH3p5Oja7sehC7OLlQ0Ylk3bC8keCelA2GAg_7k9ygSM0NTPME3cZK3T5-Lzxaj9c_tMNZw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.677552,21.281527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanauma Bay Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/JEUtOgcY8csuDUBNkeVmxcTo8RVGUlqWvTTItMpU8WRY3SVOujlqQCUUaLNqC2pDmyEP_7tj6GV_bMeps5fxoBRFNhQq4x68LeXZPnNSCMRbt5lqrW88dWHKjIWLQ6FMD1KF2g1KTTgMZw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/hanaumabaypreserve.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/JEUtOgcY8csuDUBNkeVmxcTo8RVGUlqWvTTItMpU8WRY3SVOujlqQCUUaLNqC2pDmyEP_7tj6GV_bMeps5fxoBRFNhQq4x68LeXZPnNSCMRbt5lqrW88dWHKjIWLQ6FMD1KF2g1KTTgMZw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.696595,21.271599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maunalua Bay Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/66-qwt-YU0mF4c3SbrwDvxc00zQi9LM25qKVaQ_OH0GayJcStQOSRAXUhcZdGkkmqHgB_529bemiBqqwMTDs1RNbBCVuHK9hbyVeqslemDE3umFoHF4NUMe02hIR5eNaxk7-pC_D1A" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/maunaluabaybeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/66-qwt-YU0mF4c3SbrwDvxc00zQi9LM25qKVaQ_OH0GayJcStQOSRAXUhcZdGkkmqHgB_529bemiBqqwMTDs1RNbBCVuHK9hbyVeqslemDE3umFoHF4NUMe02hIR5eNaxk7-pC_D1A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.717559,21.283476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paiko Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/e5gGet4-SdhnzITaEmelrjosfJxF8O_ebyvakp5OuVL0aiQW5Efun1AAm96rorUzfwPGpyzMiZpYhQ__nLzOLY0q1R5YA4FG7oVvkyCnNUevl2kQZhVwVbewFCWB" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/paikobeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/e5gGet4-SdhnzITaEmelrjosfJxF8O_ebyvakp5OuVL0aiQW5Efun1AAm96rorUzfwPGpyzMiZpYhQ__nLzOLY0q1R5YA4FG7oVvkyCnNUevl2kQZhVwVbewFCWB</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.729061,21.281477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kawaiku'i Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/UWvcWrtHIbCpr9CcBQ0CpetRt8zcCaAcQQ8pYZIAe8ycTg-89y-J8IjlhSfk6-Fu_fFQFXiGiOdLQpwlbC4ahi3rEs90mRfJvViqTDKR2YMbRFwanvAUFXy1OHgpB5_k6vKV408" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kawaikuibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/UWvcWrtHIbCpr9CcBQ0CpetRt8zcCaAcQQ8pYZIAe8ycTg-89y-J8IjlhSfk6-Fu_fFQFXiGiOdLQpwlbC4ahi3rEs90mRfJvViqTDKR2YMbRFwanvAUFXy1OHgpB5_k6vKV408</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.745658,21.278777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wailupe Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/q4Pav3zWzCXVMFVi1B9lAL0IUlyQ-ggdSAKKtwPRrsiAYaMJZUxoyjH7iPCbaSi7SrWiE59DyxZ3nMBeY3Fo3nrK7sOUEqeAZPLO7GAToGzfrqyXMdXOpJ0ai0Z9afB1UqA3Tw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/wailupebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/q4Pav3zWzCXVMFVi1B9lAL0IUlyQ-ggdSAKKtwPRrsiAYaMJZUxoyjH7iPCbaSi7SrWiE59DyxZ3nMBeY3Fo3nrK7sOUEqeAZPLO7GAToGzfrqyXMdXOpJ0ai0Z9afB1UqA3Tw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.760155,21.276178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wai'alae Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Bt80qTO86TO-f2kI4jHHX05p2FWEsuEDbB6qcXXJ7gEu3M1qXMGexmDjiCtXNUmbhZ6KLIpNrQhUFa70djJXqxwZWW7bzaK4StHfUuMLX8ZxoZQivKbGs_Q7xnCi4A" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waialaebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/Bt80qTO86TO-f2kI4jHHX05p2FWEsuEDbB6qcXXJ7gEu3M1qXMGexmDjiCtXNUmbhZ6KLIpNrQhUFa70djJXqxwZWW7bzaK4StHfUuMLX8ZxoZQivKbGs_Q7xnCi4A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.776997,21.26934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Head Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/XNJBiD8tQEyO00LKVEGK7F4aMoUmhIXeBM1NA_4MIbb8qPc2hG9P2YU0IlVvb9xfg_TPmxcJ2v2778VsDlyjLJc0-gE8O_DEUF1Jt3FU1K0cw1Uw9xQyYagHwplvJw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/diamondheadbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/XNJBiD8tQEyO00LKVEGK7F4aMoUmhIXeBM1NA_4MIbb8qPc2hG9P2YU0IlVvb9xfg_TPmxcJ2v2778VsDlyjLJc0-gE8O_DEUF1Jt3FU1K0cw1Uw9xQyYagHwplvJw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.806496,21.255057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuilei Cliffs Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/o5MyWg7W-MBZ2XUjdo9OFYQdaBKYPXyPls6bRxDQIlxTPEVNmPMlRy_si9rm5o9G3RRJyDUwSp0G75i2l0XaNyN4HWmyQbQf-KgnA7tw2mjYZOVQRv5-KPM20fmwHg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kuileicliffs.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/o5MyWg7W-MBZ2XUjdo9OFYQdaBKYPXyPls6bRxDQIlxTPEVNmPMlRy_si9rm5o9G3RRJyDUwSp0G75i2l0XaNyN4HWmyQbQf-KgnA7tw2mjYZOVQRv5-KPM20fmwHg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.80442,21.255722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Le'ahi Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Q0Ane_hxC_oY6NJmc2n2r1HMT78Soij_L4q56gWPL4DT1BODtBxm2hQeGNvV1dPrEpYiEfFjXvg29CxFNNe-LlRDYRkMXOOzIblIzJbtKFoQU7X-xXSGrGJOPnk9ST_Bd0KXyGA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/leahibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Q0Ane_hxC_oY6NJmc2n2r1HMT78Soij_L4q56gWPL4DT1BODtBxm2hQeGNvV1dPrEpYiEfFjXvg29CxFNNe-LlRDYRkMXOOzIblIzJbtKFoQU7X-xXSGrGJOPnk9ST_Bd0KXyGA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.815176,21.256437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaimana Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/sl6gZqfvG7ZSy3qMXWW8po6jub277_d266hn1-iJWn_h_yRt5t2-U0fTOb5qdi6EEmJ4PmnTkhYEtqjmaHJxidYd5b_bFkWebRXl02uFuo65fyGt8oOn4DvLwOB2YA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaimanabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/sl6gZqfvG7ZSy3qMXWW8po6jub277_d266hn1-iJWn_h_yRt5t2-U0fTOb5qdi6EEmJ4PmnTkhYEtqjmaHJxidYd5b_bFkWebRXl02uFuo65fyGt8oOn4DvLwOB2YA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.821769,21.263551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Queen's Surf Beach]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/CQig4llD_lZM_prizmF3j8VdRkLFvS4wwHF0ti0LVwBov92cokrptxnPOMm1RQHZsCBqlBvrOzMgE8Gw83b1cJp-33xw08zJKBvlXiQzD8l10kx4wH6ZcqSICWw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/queensbeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/CQig4llD_lZM_prizmF3j8VdRkLFvS4wwHF0ti0LVwBov92cokrptxnPOMm1RQHZsCBqlBvrOzMgE8Gw83b1cJp-33xw08zJKBvlXiQzD8l10kx4wH6ZcqSICWw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.823002,21.270649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waikiki Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/j19WgAcJYHtXqc2VzGFOpsyx4Zafx0QavvPivbaJqRRao1bLlWFCW-pFWgEMSGeiDqmYKQF_hKWEL0NS-ab3FS6stz5a_-_iifoSuOSfFjpewYPN2asBUFxjwNTzyA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waikiki-beach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/j19WgAcJYHtXqc2VzGFOpsyx4Zafx0QavvPivbaJqRRao1bLlWFCW-pFWgEMSGeiDqmYKQF_hKWEL0NS-ab3FS6stz5a_-_iifoSuOSfFjpewYPN2asBUFxjwNTzyA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.837229,21.280677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ala Moana Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/xI4vylnuCFOd8JKrzNEKJm3hWnBKRGLhPv_-WT6vwT9RNhE8_lQL2g9E3z4DABDgwDEEJx4i_qxXwv3IiQkWNNnACTwZYYHjvKDrc5wVCRO1MP-OVeVIQCNt5Jh5jHKhYE4gtTzjjWXD4nX-QMNo" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/ala-moana-beach-park.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/xI4vylnuCFOd8JKrzNEKJm3hWnBKRGLhPv_-WT6vwT9RNhE8_lQL2g9E3z4DABDgwDEEJx4i_qxXwv3IiQkWNNnACTwZYYHjvKDrc5wVCRO1MP-OVeVIQCNt5Jh5jHKhYE4gtTzjjWXD4nX-QMNo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.846692,21.288055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kaka'ako Waterfront Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/dI9JZm-juWfMpz18hZOcPjCqGcsCN20BnPXWePVbWl2VJUrg2sCfgyfyh_DJ0GYZGekyAWrx7s9_LEuhvujQyEg2SZk86CPGsLs73_mzmyVbxmXdBUgiaYV0" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kakaakowaterfrontpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/dI9JZm-juWfMpz18hZOcPjCqGcsCN20BnPXWePVbWl2VJUrg2sCfgyfyh_DJ0GYZGekyAWrx7s9_LEuhvujQyEg2SZk86CPGsLs73_mzmyVbxmXdBUgiaYV0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.86375,21.292513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sand Island Beach Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/iSe2UoE-c13K6rTd2eMhVMTXr4MMnPsSpvgLyyq7Mokvy3N18WbKWMOUiz4lw7ou9-TyKL-QCrF-DaLLXZrhjJR5OWWb1lZvT5O3UQK4vx2SY7sqyEcBmheW" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/sandislandbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/iSe2UoE-c13K6rTd2eMhVMTXr4MMnPsSpvgLyyq7Mokvy3N18WbKWMOUiz4lw7ou9-TyKL-QCrF-DaLLXZrhjJR5OWWb1lZvT5O3UQK4vx2SY7sqyEcBmheW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.878041,21.30125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ewa Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/0OPEJGqryVJwphDpvHU-fEpsX6INhALMtVGGEMxR1ofsWlrIIqSCRA0bHeWQOCZN-IhgH7nTSek7unnRb1Dv1fwgwOeXQ4TFKH4rkbIrVTOp-4IJepUcTw6dcA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/ewabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/0OPEJGqryVJwphDpvHU-fEpsX6INhALMtVGGEMxR1ofsWlrIIqSCRA0bHeWQOCZN-IhgH7nTSek7unnRb1Dv1fwgwOeXQ4TFKH4rkbIrVTOp-4IJepUcTw6dcA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.991767,21.313584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ke'ehi Lagoon Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Hra36TPbV8KIxYp8v-dnU8y4N9UFStlZ3E-w9ZsC52jE5ox5VbSfFSKkddmhT3gG0mqFiILeaieuSXSuwvKGf-POxFHOcehWPS95YpeP_8ZPUMQoIYddu-HgmyQzTBCy" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/keehilagoonbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/Hra36TPbV8KIxYp8v-dnU8y4N9UFStlZ3E-w9ZsC52jE5ox5VbSfFSKkddmhT3gG0mqFiILeaieuSXSuwvKGf-POxFHOcehWPS95YpeP_8ZPUMQoIYddu-HgmyQzTBCy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.896624,21.330635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ko Olina Lagoons</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/4HDuYezQUB2ps-zcR46g2Ea2RjiAGvnEnbjPfWdaEzk7wzNUcf1gNrS49wEXBWXontkPa3bTCVLLmiU8OFZM63eMhYrvzuC0-6XTXYstU_Tmd3pVegnmTy0VQjoqJQ" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/koolinalagoons.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/4HDuYezQUB2ps-zcR46g2Ea2RjiAGvnEnbjPfWdaEzk7wzNUcf1gNrS49wEXBWXontkPa3bTCVLLmiU8OFZM63eMhYrvzuC0-6XTXYstU_Tmd3pVegnmTy0VQjoqJQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.122358,21.326637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banzai Pipeline</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/MqMk9LUBSfDTMpcAeXAbilRnB8SnFFOmxcpWjw0BHoP31E2J-mM1YgslujKX3R0x4SpLxTb8-fKOSflqk5lnHfaEUWTiD37nUgglStzRCwAAb3LikBhkoLci1rp22cBYmns" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/banzaipipeline.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/MqMk9LUBSfDTMpcAeXAbilRnB8SnFFOmxcpWjw0BHoP31E2J-mM1YgslujKX3R0x4SpLxTb8-fKOSflqk5lnHfaEUWTiD37nUgglStzRCwAAb3LikBhkoLci1rp22cBYmns</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.056387,21.66029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Erdman Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/FZiUrmAg-n9iYFsdywjPO388Akj7TZ8VI_YbJuW7y4P4C800CqVytPStClCDp_cvYAnobQYnROCPP3Mwt38OVYnyrhaGyPZm1i0hHaqhchXfvbQyqpSdktgH6FzuMS1ouWg-Aws" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/camperdmanbeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/FZiUrmAg-n9iYFsdywjPO388Akj7TZ8VI_YbJuW7y4P4C800CqVytPStClCDp_cvYAnobQYnROCPP3Mwt38OVYnyrhaGyPZm1i0hHaqhchXfvbQyqpSdktgH6FzuMS1ouWg-Aws</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.224958,21.579001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ka'alawai Beach]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/YaY-0rAXwXA-FQ5LUCXYJw1KUx8LuteDmDybAOU75_rRuMQk6Vw8B9CMrBtRh2qwVHJZb1ic36XADe0JL86vRSdNFKrCgby0S3YtrpGewMAJoWughLp02fevlRAEqUT1dkqP" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaalawaibeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/YaY-0rAXwXA-FQ5LUCXYJw1KUx8LuteDmDybAOU75_rRuMQk6Vw8B9CMrBtRh2qwVHJZb1ic36XADe0JL86vRSdNFKrCgby0S3YtrpGewMAJoWughLp02fevlRAEqUT1dkqP</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.796843,21.257134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaihalulu Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/nDBbKs_Yvv3daO84-psNlqyaB9bsVBsaxO-NQab7MA0x7HQOnNkMHpTbBEFY-OaHqpKSHE-UTBa4FMxsPxBAC580zM20wD-gGvmSIQ6SuEjQjcVoEPy9DtfJa2KA4ctB-UU" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaihalulubeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/nDBbKs_Yvv3daO84-psNlqyaB9bsVBsaxO-NQab7MA0x7HQOnNkMHpTbBEFY-OaHqpKSHE-UTBa4FMxsPxBAC580zM20wD-gGvmSIQ6SuEjQjcVoEPy9DtfJa2KA4ctB-UU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.99314,21.705184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaneohe Beach Park</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/18JeWw2R1t-2W0lhXlcRgja760C6xLuLhH0aCKvAUU3NypZictjtjZQnAlLMcAPoyRLcEVoZPFah5nN40Lby9aWPsfJftqu9vSCfJSzk3oiZMpnb6j1Q-GRx" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaneohebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/18JeWw2R1t-2W0lhXlcRgja760C6xLuLhH0aCKvAUU3NypZictjtjZQnAlLMcAPoyRLcEVoZPFah5nN40Lby9aWPsfJftqu9vSCfJSzk3oiZMpnb6j1Q-GRx</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.786106,21.413126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuhio Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/wzJyZuev6MqxAx5OWzpcnvonihDQCu34i4R1FHVAx90ItlLSXniIHbCEPe8WyYp308U3KLB8Et-1ptdD4e9Q1d8ujTUnusECPgAJThpZrILS8xkGgJG5mAuiLgrbjba2Bw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kuhiobeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/wzJyZuev6MqxAx5OWzpcnvonihDQCu34i4R1FHVAx90ItlLSXniIHbCEPe8WyYp308U3KLB8Et-1ptdD4e9Q1d8ujTUnusECPgAJThpZrILS8xkGgJG5mAuiLgrbjba2Bw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.825609,21.275228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laniakea Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/e7vUn0sqahATjF_g7zgj6CU7Fg-MNosAheSZG7LfLjximwvvO_6U_ksToa9_dM2qYCA8q0YchmeGhc9PO1Tpd-wS2tbOp0j_8HVViHR29bCAOzmd61um1Cgx2Q" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/laniakeabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/e7vUn0sqahATjF_g7zgj6CU7Fg-MNosAheSZG7LfLjximwvvO_6U_ksToa9_dM2qYCA8q0YchmeGhc9PO1Tpd-wS2tbOp0j_8HVViHR29bCAOzmd61um1Cgx2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.086191,21.617886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Makua Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hsWin9mrxwYX8FOYZhLVVkBIFQ03y3RqG2V2Dio__QdSYNhqi-VJYUNWlu__X3TEKFFUFLcZjTIrl76HrbgNsijjS6tsnGuIqCdCT7rIo6H36Yo4rS5UUHgb" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/makuabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/hsWin9mrxwYX8FOYZhLVVkBIFQ03y3RqG2V2Dio__QdSYNhqi-VJYUNWlu__X3TEKFFUFLcZjTIrl76HrbgNsijjS6tsnGuIqCdCT7rIo6H36Yo4rS5UUHgb</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.229132,21.530196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Papa'iloa Beach]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/2IKNA1vhANHDzrejfdm-A1V7CPJsUXZIw_cMT4A7Q1G7laYiLHAWN8RCXBfp8ASJTlM_B1vlSaBEznq2iIUsr4xtuMQSMfZzf10QSZyJsEiUHDlnKCMCJxM9Fw" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/papailoabeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/2IKNA1vhANHDzrejfdm-A1V7CPJsUXZIw_cMT4A7Q1G7laYiLHAWN8RCXBfp8ASJTlM_B1vlSaBEznq2iIUsr4xtuMQSMfZzf10QSZyJsEiUHDlnKCMCJxM9Fw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.093594,21.613637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pupukea Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/tOstw6LQYzhFUBXFI-P7L3PD3XUYX93w7WYJxS6Zwz6ochJPGjDriK-MChx1ULLeANOSjUeTV8UQgRvvnWc8VCUIxV7ZKwo8f_7SzHOyaTHwIEVA0xZ9Gv7sJnwwviP7obuZ" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/pupukeabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/tOstw6LQYzhFUBXFI-P7L3PD3XUYX93w7WYJxS6Zwz6ochJPGjDriK-MChx1ULLeANOSjUeTV8UQgRvvnWc8VCUIxV7ZKwo8f_7SzHOyaTHwIEVA0xZ9Gv7sJnwwviP7obuZ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.062845,21.649271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Tables Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/QSII6DsM5YldEb0bLfHom331rZdvB9YZFfgimpJVHm1entPX_nUn9-5mDNW5_Mdl_ununwd8BM5kj3r9-UZilyd8GeuC-z_gZbwAj6CrMmluc0Qi6xMQBOwvQa87yJrKexYR" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/threetables.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/QSII6DsM5YldEb0bLfHom331rZdvB9YZFfgimpJVHm1entPX_nUn9-5mDNW5_Mdl_ununwd8BM5kj3r9-UZilyd8GeuC-z_gZbwAj6CrMmluc0Qi6xMQBOwvQa87yJrKexYR</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.063972,21.645671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Shark's Cove]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/X6tkiogWnIhudJ_T3sxltd9klTteiY6rAkdYiHPlaDAhgnoPGPJxKNxLmJMAdvdNJFElWxd4KR5BjzwfNS4mnj8nvetun-um7kCFcmn-CYjFN8AXA3QIaoqXpiVN" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/sharks-cove.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/X6tkiogWnIhudJ_T3sxltd9klTteiY6rAkdYiHPlaDAhgnoPGPJxKNxLmJMAdvdNJFElWxd4KR5BjzwfNS4mnj8nvetun-um7kCFcmn-CYjFN8AXA3QIaoqXpiVN</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.061783,21.651455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yokohama Bay</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/5m2v6gpFJ1gX8yCXhv2ytCFLXK07GoHZ2DnfKY23Vs7krX47O860M-YM5tEwiifTpP71RjtONzXWIYiSVmdn19h6tC9GpUvlaJYauWu0Zai9UoHquSYtqR05mo2M2w" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/yokohama-bay.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/5m2v6gpFJ1gX8yCXhv2ytCFLXK07GoHZ2DnfKY23Vs7krX47O860M-YM5tEwiifTpP71RjtONzXWIYiSVmdn19h6tC9GpUvlaJYauWu0Zai9UoHquSYtqR05mo2M2w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.24589,21.55245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waiahole Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/8Un66e9lU2WN8nwz5Hwhb9roFIZ5ggHpUfww0MS1cYp9Iv2d-5sEtzwHdT1qjuyZLOH321KNRrhidGMJgcpSO4XoIudGzPZLAR4CFxWxR5idCVL-Ocp13HOwOJ_88lnz-SQ3ICY" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/waiaholebeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/8Un66e9lU2WN8nwz5Hwhb9roFIZ5ggHpUfww0MS1cYp9Iv2d-5sEtzwHdT1qjuyZLOH321KNRrhidGMJgcpSO4XoIudGzPZLAR4CFxWxR5idCVL-Ocp13HOwOJ_88lnz-SQ3ICY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.849116,21.492007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kalae'o'io Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MUWkgWtfqjcuEQJZHajBLRckVNH7enPkEPp5TcDxTSOETBqtxIj6tJVVkQj29CNr2zmF18iVXeGeW9un5H_hD879Rc0tEar2VVNPC5xp0ZDp8_JiKwKS5mkIJtnfeP1Sj1oUm3o" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kalaeoiobeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/MUWkgWtfqjcuEQJZHajBLRckVNH7enPkEPp5TcDxTSOETBqtxIj6tJVVkQj29CNr2zmF18iVXeGeW9un5H_hD879Rc0tEar2VVNPC5xp0ZDp8_JiKwKS5mkIJtnfeP1Sj1oUm3o</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.846069,21.545425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaluanui Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/nLAa2XHC7zq0ogkzW5qwUzhQtsMvvbD43as3zwCuID4e2l5Y6EABzES9HuPu9MDEF2vBAfm56D7LbXd1SOpUyNnBcJ0_SP7Gq1fBoqvXusyURc342bc4Rw6km-INg6Bu" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kaluanuibeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/nLAa2XHC7zq0ogkzW5qwUzhQtsMvvbD43as3zwCuID4e2l5Y6EABzES9HuPu9MDEF2vBAfm56D7LbXd1SOpUyNnBcJ0_SP7Gq1fBoqvXusyURc342bc4Rw6km-INg6Bu</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.895132,21.594465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Police Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/iLZiApMnGcL5FSEze-EEuAdkO3afRFs6xczojdK2Ch5_hyo148_sSskPq9p2TzhXOk-zd6zUtJ2_qLLw2WlTygGdaGIJfMxj8UDb4GByWgSRDYB19XgKgc8Mb0Y" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/policebeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/iLZiApMnGcL5FSEze-EEuAdkO3afRFs6xczojdK2Ch5_hyo148_sSskPq9p2TzhXOk-zd6zUtJ2_qLLw2WlTygGdaGIJfMxj8UDb4GByWgSRDYB19XgKgc8Mb0Y</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.097897,21.609078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pua'ena Point Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ur5tcG-DIJPzd_9IR-64G1U0QWWe7_LAw2YWMRyGdmhNnLJQn7E48VE9mGTtFW941T61cvdecmO_dyL1MVXMAS_uQeWokKT7t7y_7VVoXAskVLan_NLNYktll2UolKAm-Os" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/puaenapointbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/ur5tcG-DIJPzd_9IR-64G1U0QWWe7_LAw2YWMRyGdmhNnLJQn7E48VE9mGTtFW941T61cvdecmO_dyL1MVXMAS_uQeWokKT7t7y_7VVoXAskVLan_NLNYktll2UolKAm-Os</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.102703,21.604769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uppers Beach Park </name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/uYsDz4VjRkkdbx_E3DoBWDo_lu0q8LR2VNlZ3UR7B2noD2J36mDdaXA7sAJwBxzt4dGQXxRYNIy1Pu6UJ_B5Hz_mn-H_iAz_Dfcdhl0auFABN9SuydIcOiB_xi0_D28SOg" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/uppersbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/uYsDz4VjRkkdbx_E3DoBWDo_lu0q8LR2VNlZ3UR7B2noD2J36mDdaXA7sAJwBxzt4dGQXxRYNIy1Pu6UJ_B5Hz_mn-H_iAz_Dfcdhl0auFABN9SuydIcOiB_xi0_D28SOg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.069749,21.633734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chun's Reef]]></name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/tXflZ3ZUXhm0q2RExsFm3JGiMnCgM2kH3CD8j6U9ujbu8GieFjaGJLhFcOOiI4vJ0EbJ_klI215VaTycFZtJYzZUWJRr1ALDcYdthosZKK8BSO_8dy-5m5hmtgQhTXpNY3igSPs" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/chunsreef.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/tXflZ3ZUXhm0q2RExsFm3JGiMnCgM2kH3CD8j6U9ujbu8GieFjaGJLhFcOOiI4vJ0EbJ_klI215VaTycFZtJYzZUWJRr1ALDcYdthosZKK8BSO_8dy-5m5hmtgQhTXpNY3igSPs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.082334,21.621746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Makaleha Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/y3_kswCoLhNU3YZcOk8eLQssH9nFDqwRGsTqvOYrNXPtwTE0lV9VxIaDoVSK2SpgAZLJaMbSlNIKCNMS48TuBFVygcMZmYOVGR0J6wdYdiOZXDN9rujUa_3n6vskfi4NNCUD573OoA" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/makalehabeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/y3_kswCoLhNU3YZcOk8eLQssH9nFDqwRGsTqvOYrNXPtwTE0lV9VxIaDoVSK2SpgAZLJaMbSlNIKCNMS48TuBFVygcMZmYOVGR0J6wdYdiOZXDN9rujUa_3n6vskfi4NNCUD573OoA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.166894,21.579151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Island Beach</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/TwDIXwNo92cgF53Jsh9tCEiXa4tjexqCrL-PTN3JP6hIK3yTm1KX8SMhePkFQqJveoK2phqj6xBtS2AYkEJQUBWlZcvNxzLzyNPAis_zXrS-xDIOuYEtNXcbM8VvTwiMjg8" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/magicislandbeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/TwDIXwNo92cgF53Jsh9tCEiXa4tjexqCrL-PTN3JP6hIK3yTm1KX8SMhePkFQqJveoK2phqj6xBtS2AYkEJQUBWlZcvNxzLzyNPAis_zXrS-xDIOuYEtNXcbM8VvTwiMjg8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.846627,21.283416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Barber's Point Beach Park]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/i5twhQBIMHmAorh6Hrg_hR0dM-BuqnJ2amIuyPrjppXIBH1PXdZxotuHjVlrRP7ZnUwvoUFA1g7tIIdS-1Lc31W_acodw12cEpmFeBbE758HO3sGVs6_Q7qw9gctqpia17QVKdj465D6" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/barberspointbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/i5twhQBIMHmAorh6Hrg_hR0dM-BuqnJ2amIuyPrjppXIBH1PXdZxotuHjVlrRP7ZnUwvoUFA1g7tIIdS-1Lc31W_acodw12cEpmFeBbE758HO3sGVs6_Q7qw9gctqpia17QVKdj465D6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -158.102188,21.295772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wawamalu Beach</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/b5DV1oPAwZcnSQu1zDiksu0DODHYaVJVX2-40XcPRi6lIyoSW4_XYRp0hxmhQzb-6tUz7iCO22sb0PmJDx7VsHAlhu49Ft4ctohKozh9Zws7rzgNrCerrSIVvgubFQ5DppnZRKo" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/wawamalubeach.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/b5DV1oPAwZcnSQu1zDiksu0DODHYaVJVX2-40XcPRi6lIyoSW4_XYRp0hxmhQzb-6tUz7iCO22sb0PmJDx7VsHAlhu49Ft4ctohKozh9Zws7rzgNrCerrSIVvgubFQ5DppnZRKo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.668443,21.287375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuliouou Beach Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/mdYAhiyoe1-C6BWKzCMS_Zd-rF7CjtrV_urSjBMuUPz9uLGUtct-KhPnhqM74jmmCR3Hv4gdHishPfXzoE1VdYgfQLauQ8C0tfOGHV_iet9_Z7xzqtst2PGUAzV3w0hEYO1RKHE" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/kuliououbeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/mdYAhiyoe1-C6BWKzCMS_Zd-rF7CjtrV_urSjBMuUPz9uLGUtct-KhPnhqM74jmmCR3Hv4gdHishPfXzoE1VdYgfQLauQ8C0tfOGHV_iet9_Z7xzqtst2PGUAzV3w0hEYO1RKHE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.72036,21.284356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Makalei Beach Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/hQdF6xi6Khs48ftlw6l82FoGZn0mpaVYaFYbACrAvwi31tJuQYf11ENKezTwcCm5QHSUMDXnoGU6RMWf4tbbKfg4vlXGwCeMof4In8kP_GGUPnNmyuxFVLfySfk" height="200" width="auto" /><br><br>Visit beach page (http://www.to-hawaii.com/oahu/beaches/makaleibeachpark.php)]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/hQdF6xi6Khs48ftlw6l82FoGZn0mpaVYaFYbACrAvwi31tJuQYf11ENKezTwcCm5QHSUMDXnoGU6RMWf4tbbKfg4vlXGwCeMof4In8kP_GGUPnNmyuxFVLfySfk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.817024,21.257444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

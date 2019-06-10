@@ -8,11 +8,6 @@
 - Kite boarding
 - Paddleboarding
 
-## Parks
-
-- Regular
-- Dog
-
 ## Beaches
 
 ## Neighborhoods
@@ -30,42 +25,11 @@ Filters: Price, population, average income, etc
 - Kapawai
 - Pearl city
 
-## Schools
-
-Oahu is comprised of four districts:
-
-- CEN (Central)
-- HON (Honolulu)
-- LEE (Leeward)
-- WIN (Windward)
-
-Best School District By Score
-
-- 236: CEN
-- 232: HON
-- 217: WIN
-- 216: LEE
-- 211: CHAR
-- 206: HAW
-- 204: KAU
-- 202: MAUI
-- 192: MAU
-
-- Elementary:
-  - Pauoa Elementary
-  - Pearl City Elementary
-  - Palisades Elementary
-- Middle:
-  - Wheeler Middle
-  - Moanalua Middle
-  - ‘Aiea Intermediate
-- High:
-  - University Laboratory
-  - Roosevelt High
-  - Kalani High
-
 ## Resources
 
+- [Shoreline Public Access](http://geoportal.hawaii.gov/datasets/shoreline-public-access?geometry=-158.534%2C21.241%2C-157.216%2C21.464)
+- [Oahu Beaches](https://www.google.com/maps/d/viewer?mpa=0&ctz=600&mpf=0&ie=UTF8&t=h&vpsrc=0&oe=UTF8&msa=0&mid=1dOLnQLb7MyenQwZd1fIG0Q66WKw&ll=21.029214823331078%2C-157.03609376991426&z=8)
+- [Top 8 Dog Parks](https://www.rover.com/blog/top-8-dog-parks-oahu/)
 - [Neighborhood Boards of Honlulu](https://en.wikipedia.org/wiki/Neighborhood_Boards_of_Honolulu)
 - [GIS: Perennial streams](http://honolulu-cchnl.opendata.arcgis.com/datasets/1eacaf6f0a8a4b809ea76b89c1300339_4)
 - [Middle School Areas](https://geoportal.hawaii.gov/datasets/middle-school-areas?geometry=-168.047%2C19.264%2C-146.953%2C22.851)
