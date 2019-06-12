@@ -9,6 +9,7 @@ export function SchoolsTop({ className }) {
     const { name, district, score } = school
     return (
       <div key={index} className="school">
+        <div>{index + 1}</div>
         <div>{score}</div>
         <div>{name}</div>
         <div>{district}</div>
@@ -31,6 +32,7 @@ export function SchoolsTop({ className }) {
 
       <h3>Elementary School</h3>
       <div className="school school-header">
+        <div>Place</div>
         <div>Score</div>
         <div>Name</div>
         <div>District</div>
@@ -42,6 +44,7 @@ export function SchoolsTop({ className }) {
 
       <h3>Middle School</h3>
       <div className="school school-header">
+        <div>Place</div>
         <div>Score</div>
         <div>Name</div>
         <div>District</div>
@@ -51,6 +54,7 @@ export function SchoolsTop({ className }) {
 
       <h3>High School</h3>
       <div className="school school-header">
+        <div>Place</div>
         <div>Score</div>
         <div>Name</div>
         <div>District</div>
@@ -61,6 +65,7 @@ export function SchoolsTop({ className }) {
       <h3>School District</h3>
       <p>Best average score across all grades</p>
       <div className="school school-header">
+        <div>Place</div>
         <div>Score</div>
         <div>Name</div>
         <div>District</div>
@@ -78,7 +83,7 @@ export default styled(SchoolsTop)`
   }
   .school {
     display: grid;
-    grid-template-columns: 80px 1fr 1fr;
+    grid-template-columns: 80px 80px 1fr 1fr;
     padding: 2px 5px;
   }
   .school:nth-child(odd) {
