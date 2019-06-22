@@ -35,7 +35,18 @@ export default function Layout({ children }) {
               paddingTop: 0,
             }}
           >
-            <main>{children}</main>
+            <main style={{ position: "relative", paddingTop: 90 }}>
+              <iframe
+                title="Google MyMap"
+                src="https://www.google.com/maps/d/embed?mid=140gPqk_yTmdIMQdBkTsRDZSbWMDh6RS7"
+                className="myMap"
+                style={{
+                  width: "100%",
+                  height: 480,
+                }}
+              />
+              {children}
+            </main>
             <footer>© {new Date().getFullYear()} Tyler Buchea</footer>
           </div>
         </>

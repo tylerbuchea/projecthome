@@ -38,7 +38,15 @@ module.exports = {
         path: `${__dirname}/src/data-real-estate/`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/pages`,
+        name: `markdown-pages`,
+      },
+    },
     `gatsby-transformer-csv`,
     `gatsby-plugin-styled-components`,
+    `gatsby-transformer-remark`,
   ],
 }
