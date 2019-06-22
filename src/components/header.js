@@ -28,6 +28,9 @@ export function Header({ className, siteTitle }) {
           <Link to="/real-estate" className="link" activeClassName="linkActive">
             Real Estate
           </Link>
+          <Link to="/playground" className="link" activeClassName="linkActive">
+            Playground
+          </Link>
         </div>
       </div>
     </header>

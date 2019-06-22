@@ -1,0 +1,554 @@
+[
+  {
+    "name": "District 1 Office-East Honolulu",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "939 Hind Iuka Drive, Honolulu 96821",
+    "phone": "768-8944"
+  },
+  {
+    "name": "`Āina Haina Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "827 West Hind Drive, Honolulu  96821",
+    "phone": "373-2722"
+  },
+  {
+    "name": "Ala Wai Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "2015 Kapiʻolani  Boulevard, Honolulu  96826",
+    "phone": "768-4622"
+  },
+  {
+    "name": "Ala Wai Golf Course Clubhouse",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "404 Kapahulu Avenue, Honolulu  96815",
+    "phone": "768-4624"
+  },
+  {
+    "name": "Hanauma Bay Nature Preserve",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "100 Hanauma Bay Drive, Honolulu  96825",
+    "phone": "396-4229"
+  },
+  {
+    "name": "Kāhala Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "4495 Pahoa Avenue, Honolulu  96816",
+    "phone": "768-6710"
+  },
+  {
+    "name": "Kaimukī Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "3521 Waiʻalae Avenue, Honolulu  96816",
+    "phone": "768-6722"
+  },
+  {
+    "name": "Kamilo Iki Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "7750 Hawai‘i Kai Drive, Honolulu  96825",
+    "phone": "768-6717"
+  },
+  {
+    "name": "Kānewai Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "2695 Dole Street, Honolulu  96822",
+    "phone": "768-6724"
+  },
+  {
+    "name": "Kapāolono Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "701 11th Avenue, Honolulu  96816",
+    "phone": "768-6711"
+  },
+  {
+    "name": "Kapiʻolani Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "3840 Paki Avenue, Honolulu  96815",
+    "phone": "768-4626"
+  },
+  {
+    "name": "Kīlauea District Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "4109 Kīlauea Avenue, Honolulu  96816",
+    "phone": "768-6713"
+  },
+  {
+    "name": "Koko Head District Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "423 Kaumakani Street, Honolulu  96825",
+    "phone": "768-6718"
+  },
+  {
+    "name": "Koko Head Shooting Complex",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "8102 Kalanianaʻole Hwy, Honolulu, HI 96825",
+    "phone": "768-6720"
+  },
+  {
+    "name": "Mānoa Valley District Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "2721 Kaaipu Avenue, Honoluu  96822",
+    "phone": "768-6703"
+  },
+  {
+    "name": "McCully District Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "831 Pumehana Street, Honolulu  96826",
+    "phone": "768-6707"
+  },
+  {
+    "name": "Pākī Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "3503 Leahi Avenue, Honolulu  96815",
+    "phone": "768-6726"
+  },
+  {
+    "name": "Pālolo Valley District Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "2007 Pālolo Avenue, Honolulu  96816",
+    "phone": "768-6727"
+  },
+  {
+    "name": "Wailupe Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "939 Hind Iuka Drive, Honolulu 96821",
+    "phone": "768-8948"
+  },
+  {
+    "name": "Wilson Community Park",
+    "district": "District 1-East Honolulu - Hawaiʻi Kai to McCully",
+    "address": "4901 Kilauea Avenue, Honolulu  96816",
+    "phone": "768-6714"
+  },
+  {
+    "name": "District 2 Office-West Honolulu",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1527 Ke‘eaumoku Street, Honolulu  96822",
+    "phone": "768-9292"
+  },
+  {
+    "name": "‘Aiea District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "99-350 ‘Aiea Heights Road, ‘Aiea  96701",
+    "phone": "768-6736"
+  },
+  {
+    "name": "Ala Moana Regional Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1201 Ala Moana Boulevard, Honolulu  96814",
+    "phone": "768-4616"
+  },
+  {
+    "name": "Ala Pu‘umalu Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1575 Ala Pu‘umalu Street, Honolulu  96818",
+    "phone": "768-6738"
+  },
+  {
+    "name": "Beretania Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1290 ‘A‘ala Street, Honolulu  96817",
+    "phone": "768-6759"
+  },
+  {
+    "name": "Booth District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "2341 Kaneali‘i Avenue, Honolulu  96813",
+    "phone": "768-6744"
+  },
+  {
+    "name": "Fern Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1201 Middle Street, Honolulu  96819",
+    "phone": "768-6753"
+  },
+  {
+    "name": "Hālawa District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "99-795 ‘Iwa‘iwa Street, ‘Aiea  96701",
+    "phone": "768-6751"
+  },
+  {
+    "name": "Kalākaua  District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "720 McNeill Street, Honolulu  96817",
+    "phone": "768-6757"
+  },
+  {
+    "name": "Kalihi Uka Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "2329 Kalihi Street, Honolulu  96819",
+    "phone": "768-6762"
+  },
+  {
+    "name": "Kalihi Valley District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1911 Kamehameha IV Road, Honolulu  96819 ",
+    "phone": "768-8962"
+  },
+  {
+    "name": "Kamehameha Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1400 Kalihi Street, Honolulu  96819",
+    "phone": "768-6763"
+  },
+  {
+    "name": "Kauluwela Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "402 Kauluwela Place, Honolulu 96817",
+    "phone": "768-6760"
+  },
+  {
+    "name": "Lanakila District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1701 Lanakila Avenue, Honolulu  96817",
+    "phone": "768-6747"
+  },
+  {
+    "name": "Makiki District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1527 Ke‘eaumoku Street, Honolulu  96822",
+    "phone": "768-9291"
+  },
+  {
+    "name": "Makua Aliʻi Senior Citizen Center",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1541 Kalākaua Avenue, Honolulu  96826",
+    "phone": "973-7258"
+  },
+  {
+    "name": "Moanalua Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "2900 Moanalua Road, Honolulu  96819",
+    "phone": "768-6754"
+  },
+  {
+    "name": "Pauahi Recreation Center",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "171 North Pauahi Street, Honoulu  96817",
+    "phone": "768-6761"
+  },
+  {
+    "name": "Pu'unui Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "2555 Pu'unui Avenue, Honolulu  96817",
+    "phone": "595-2460"
+  },
+  {
+    "name": "Salt Lake District Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1159 Ala Lilikoi Place, Honolulu  96818",
+    "phone": "768-6739"
+  },
+  {
+    "name": "Sheridan Community Park",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "833 Pi‘ikoi Street, Honolulu  96814",
+    "phone": "768-6764"
+  },
+  {
+    "name": "Stevenson Recreation Center",
+    "district": "District 2-West Honolulu - Makiki to ʻAiea",
+    "address": "1202 Prospect Street, Honolulu  96822",
+    "phone": "768-6765"
+  },
+  {
+    "name": "District 3 Office-Leeward",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-230 Paiwa Street, Waipahū  96797",
+    "phone": "675-7130"
+  },
+  {
+    "name": "Asing Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "91-1450 Renton Road, Ewa  96706",
+    "phone": "681-6435"
+  },
+  {
+    "name": "Crestview Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-1220 Lumikula Street, Waipahū  96797",
+    "phone": "768-6783"
+  },
+  {
+    "name": "Ewa Beach Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "91-955 North Road, Ewa Beach  96706",
+    "phone": "689-0370"
+  },
+  {
+    "name": "Ewa Mahiko District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "91-1145 Renton Road, Ewa Beach 96706",
+    "phone": "681-8315"
+  },
+  {
+    "name": "Ho'ae'ae Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-709 Kaʻaholo Street, Waipahū  96797",
+    "phone": "676-8832"
+  },
+  {
+    "name": "Kamokila Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "91-015 Farrington Highway, Kapolei  96707",
+    "phone": "682-4161"
+  },
+  {
+    "name": "Maʻili Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "87-360 Kulaʻaupuni Street, Wai'anae  96792",
+    "phone": "696-4766"
+  },
+  {
+    "name": "Mākaha Valley Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "84-730 Manuku Street, Wai'anae  96792",
+    "phone": "695-9466"
+  },
+  {
+    "name": "Makakilo Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "92-1120 Makakilo Drive, Kapolei  96707",
+    "phone": "672-8465"
+  },
+  {
+    "name": "Mānana Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "1310 Waimano Home Road, Pearl City  96782",
+    "phone": "453-7527"
+  },
+  {
+    "name": "Mililani District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-1150 Lanikuhana Avenue, Mililani  96789",
+    "phone": "623-5258"
+  },
+  {
+    "name": "Kalanianaʻole Beach Park (formerly Nanakuli)",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "89-269 Farrington Highway, Wai'anae  96792",
+    "phone": "668-1137"
+  },
+  {
+    "name": "Pacific Palisades Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "2282 ‘Auhuhu Street, Pearl City  96782",
+    "phone": "453-7557"
+  },
+  {
+    "name": "Pearl City District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "785 Ho'omaemae Street, Pearl City  96782",
+    "phone": "453-7550"
+  },
+  {
+    "name": "Pililā'au Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "85-166 Plantation Road, Wai‘anae  96792",
+    "phone": "696-4442"
+  },
+  {
+    "name": "Wahiawā District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "1139-A Kilani Avenue, Wahiawa  96786",
+    "phone": "621-5663"
+  },
+  {
+    "name": "Wai'anae District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "85-601 Farrington Highway, Wai'anae  96792",
+    "phone": "696-5039"
+  },
+  {
+    "name": "Waiau District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "98-1650 Kaʻahumanu Street, Pearl City  96782",
+    "phone": "453-7555"
+  },
+  {
+    "name": "Waikele Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-870 Lumiaina Street, Waipiʻo  96797",
+    "phone": "678-0871"
+  },
+  {
+    "name": "Waipahū District Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "94-230 Paiwa Street, Waipahū  96797",
+    "phone": "675-7129"
+  },
+  {
+    "name": "Whitmore Community Park",
+    "district": "District 3-Leeward - Pearl City to Waiʻanae to Wahiawā",
+    "address": "1259 Whitmore Avenue, Wahiawā  96786",
+    "phone": "622-2420"
+  },
+  {
+    "name": "District 4 Office-Windward",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-660 Keaahala Road, Kāneʻohe  96744",
+    "phone": "768-8980"
+  },
+  {
+    "name": "‘Āhuimanu Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "47-450 Hui Aeko Place, Kāneʻohe  96744",
+    "phone": "239-6594"
+  },
+  {
+    "name": "Aikahi Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "93 Kaneohe Bay Drive, Kailua  96734",
+    "phone": "266-7655"
+  },
+  {
+    "name": "Enchanted Lake Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "770 Keolu Drive, Kailua  96734",
+    "phone": "266-7665"
+  },
+  {
+    "name": "Hale‘iwa Alii Beach Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "66-167 Hale‘iwa Road, Hale‘iwa  96712",
+    "phone": "637-5051"
+  },
+  {
+    "name": "Hau‘ula Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "54-050 Kamehameha Highway, Hau‘ula  96717",
+    "phone": "293-5564"
+  },
+  {
+    "name": "He‘eia Neighborhood Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "46-220 Haiku Road, Kāneʻohe  96744",
+    "phone": "768-8992"
+  },
+  {
+    "name": "Kahalu‘u Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "47-260 Waihee Road, Kāneʻohe 96744",
+    "phone": "768-8996"
+  },
+  {
+    "name": "Kahuku District Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "56-170 Pualalea Street, Kahuku  96731",
+    "phone": "293-5116"
+  },
+  {
+    "name": "Kailua District Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "21 South Kainalu Drive, Kailua  96734",
+    "phone": "266-7652"
+  },
+  {
+    "name": "Kalama Beach Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "248 North Kalaheo Avenue, Kailua  96734",
+    "phone": "266-7655"
+  },
+  {
+    "name": "Kāneʻohe Community Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-529 Keaʻahala Road, Kāneʻohe  96744",
+    "phone": "233-7330"
+  },
+  {
+    "name": "Kāneʻohe Community & Senior Center",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-613 Pūʻōhala  Street, Kāneʻohe 96744",
+    "phone": "233-7317"
+  },
+  {
+    "name": "Kāneʻohe District Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-660 Kea‘ahala Road, Kāneʻohe 96744",
+    "phone": "768-8991"
+  },
+  {
+    "name": "Kapunahala Neighborhood Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-800 Anoi Road, Kāneʻohe  96744",
+    "phone": "233-7316"
+  },
+  {
+    "name": "Kualoa Regional Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "49-479 Kamehameha Highway, Kāneʻohe  96744",
+    "phone": "237-8525"
+  },
+  {
+    "name": "Pūʻōhala Neighborhood Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "45-233 Kulauli Street, Kāneʻohe  96744",
+    "phone": "233-7317"
+  },
+  {
+    "name": "Pūpūkea Beach Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "59-727 Kamehameha Highway, Hale‘iwa  96712",
+    "phone": "638-7213"
+  },
+  {
+    "name": "Sunset Beach Neighborhood Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "59-360 Kamehameha Highway, Hale‘iwa  96712",
+    "phone": "638-7051"
+  },
+  {
+    "name": "Sunset Beach Recreation Center",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "59-530 Kamehameha Highway, Hale‘iwa 96712",
+    "phone": "638-7213"
+  },
+  {
+    "name": "Swanzy Beach Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "51-369 Kamehameha Highway, Ka‘a‘awa  96730",
+    "phone": "233-7314"
+  },
+  {
+    "name": "Waialua District Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "67-180 Goodale Avenue, Waialua  96791",
+    "phone": "637-9721"
+  },
+  {
+    "name": "Waimānalo Beach Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "41-741 Kalanianaole Highway, Waimānalo  96795",
+    "phone": "259-9106"
+  },
+  {
+    "name": "Waimānalo District Park",
+    "district": "District 4-Windward - Waialua to Waimānalo",
+    "address": "41-415 Hihimanu Street, Waimānalo  96795",
+    "phone": "259-8926"
+  },
+  {
+    "name": "District 5 Office",
+    "district": "District 5 Office",
+    "address": "94-801 Kamehameha Highway, Waipahu  96797",
+    "phone": "677-8849"
+  },
+  {
+    "name": "Central Oʻahu Regional Park",
+    "district": "District 5 Office",
+    "address": "94-801 Kamehameha Highway, Waipahu  96797",
+    "phone": "676-6982"
+  },
+  {
+    "name": "Hans L'Orange Neighborhood Park",
+    "district": "District 5 Office",
+    "address": "94-1024 Waipahu Street, Waipahu  96797",
+    "phone": "676-6982"
+  },
+  {
+    "name": "Waipiʻo Peninsula Soccer Complex",
+    "district": "District 5 Office",
+    "address": "93-061 Waipiʻo Point Access Road, Waipahu  96797",
+    "phone": "678-0593"
+  }
+]
