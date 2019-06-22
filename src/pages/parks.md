@@ -4,7 +4,32 @@ date: "2019-05-04"
 title: "Parks"
 ---
 
+[Park Locations](http://www.honolulu.gov/parks/default/park-locations.html)
+
 # Picks
+
+- Kualoa Regional Park - 153 acres very open
+- Ahupuaʻa ʻO Kahana State Park
+- Puʻu ʻUalakaʻa State Wayside
+- Nuʻuanu Pali State Wayside
+- Māʻili Beach Park - Waianae, HI
+- Keaīwa Heiau State Recreation Area
+- Haleʻiwa Beach Park
+- Mālaekahana State Recreation Area
+- Wahiawā Freshwater State Recreation Area
+- Honouliuli National Historic Site
+- Koko Head District Park
+- Waʻahila Ridge State Recreation Area
+- Lāʻie Point State Wayside
+- Patsy T. Mink Central Oʻahu Regional Park
+- Neal S. Blaisdell Park
+- Maunalua Bay Beach Park
+- Kānewai Community Park
+- Heʻeia State Park
+- Pacheco Neighborhood Park
+- Kahiwelo Neighborhood Park
+
+## State
 
 https://hawaiistateparks.org/parks/oahu/wa%CA%BBahila-ridge-state-recreation-area/
 Boat Ramp
