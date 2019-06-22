@@ -13,7 +13,7 @@ export function Header({ className, siteTitle }) {
           </Link>
         </h1>
         <div className="links">
-          <Link to="/parks" className="link">
+          <Link to="/parks" className="link" activeClassName="linkActive">
             Parks
           </Link>
           {/* <Link to="/beaches" className="link">
@@ -22,10 +22,10 @@ export function Header({ className, siteTitle }) {
           <Link to="/neighborhoods" className="link">
             Neighborhoods
           </Link> */}
-          <Link to="/schools" className="link">
+          <Link to="/schools" className="link" activeClassName="linkActive">
             Schools
           </Link>
-          <Link to="/real-estate" className="link">
+          <Link to="/real-estate" className="link" activeClassName="linkActive">
             Real Estate
           </Link>
         </div>
@@ -64,11 +64,17 @@ export default styled(Header)`
   .title {
     margin: 0;
     font-size: 1rem;
+    border-bottom: 2px solid transparent;
   }
 
   .link {
     color: white;
     text-decoration: none;
+    border-bottom: 2px solid transparent;
+  }
+
+  .linkActive {
+    border-bottom: 2px solid white;
   }
 
   .links {
